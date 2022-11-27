@@ -13,6 +13,7 @@ There is a separate configuration for  both Log4j2 and Extent Reports.
 For adding logs via : Log4j 2 use : 			
  - log.info("Add message here")
  - A rolling log4j2 File is configured. Limit is set to 10 MB >> After that a new Log file is created.
+ - Log file is generated with name - app-info.log
 
 For Extent Report use : 
 ------------------------
