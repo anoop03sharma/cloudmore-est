@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="UITest_Cloudmore" >
+	<listeners>
+		<listener class-name="com.cloudmore.utils.ListenerUtils" />
+	</listeners>
+
+	<test name="uiTest">
+		<classes>
+			<class name="com.cloudmore.assignment.Assignment_PartB_Test" />
+		</classes>
+	</test> 
+ 	
+ 	 <test name="apiTest">
+		<classes>
+			<class name="com.cloudmore.assignment.Assignment_PartC_Test" />
+		</classes>
+		<groups>
+			<run>
+				<include name="ALL" />
+			</run>
+		</groups>
+	</test>
+ 
+</suite>

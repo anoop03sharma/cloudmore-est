@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [AssignmentTest]">
+  <listeners>
+    <listener class-name="com.cloudmore.utils.ListenerUtils"/>
+  </listeners>
+  <test thread-count="5" name="uiTest(failed)">
+    <classes>
+      <class name="com.cloudmore.assignment.Assignment_PartB_Test">
+        <methods>
+          <include name="testSearchFunction"/>
+          <include name="Setup"/>
+          <include name="tearDown"/>
+          <include name="closeBrowser"/>
+        </methods>
+      </class> <!-- com.cloudmore.assignment.Assignment_PartB_Test -->
+    </classes>
+  </test> <!-- uiTest(failed) -->
+</suite> <!-- Failed suite [AssignmentTest] -->

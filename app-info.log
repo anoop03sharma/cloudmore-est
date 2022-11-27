@@ -1,0 +1,2044 @@
+15:30:10.313 [main] INFO  com.cloudmore.base.TestBase - Browser is launched...
+15:30:32.045 [main] INFO  com.cloudmore.ui.pages.Cloudmore_HomePage_Actions - 
+
+Clicked on Search Button on HomePage.....
+15:30:32.194 [main] INFO  com.cloudmore.ui.pages.Cloudmore_HomePage_Actions - 
+
+Search Textbox is displayed on clicking Search Button.....
+15:30:33.802 [main] INFO  com.cloudmore.ui.pages.Cloudmore_SearchPage_Actions - 
+Search Textbox is displayed on screen 
+
+15:30:34.394 [main] INFO  com.cloudmore.ui.pages.Cloudmore_SearchPage_Actions - 
+Enter search string : Solution in Search Textbox 
+
+15:30:38.760 [main] INFO  com.cloudmore.ui.pages.Cloudmore_SearchPage_Actions - 
+ Clicked on Search Button 
+
+15:30:49.003 [main] INFO  com.cloudmore.ui.pages.Cloudmore_SearchPage_Actions - Verifying Search Results Notification...
+15:30:49.475 [main] INFO  com.cloudmore.ui.pages.Cloudmore_SearchPage_Actions - Solution: is displayed on screen
+15:30:59.987 [main] INFO  com.cloudmore.ui.pages.Cloudmore_SearchPage_Actions - 
+
+ Total Search Results returned : : 10
+15:31:32.098 [main] INFO  com.cloudmore.ui.pages.Cloudmore_SearchPage_Actions - Resize Window to mobile screen and take screenshot
+15:32:12.045 [main] INFO  com.cloudmore.ui.pages.Cloudmore_SearchPage_Actions - 
+ Maximize browser Window after taking screenshot
+
+15:32:14.203 [main] INFO  com.cloudmore.ui.pages.Cloudmore_SearchPage_Actions - ************* SEARCH RESULTS FOUND : 10
+15:32:14.426 [main] INFO  com.cloudmore.ui.pages.Cloudmore_HomePage_Actions - 
+
+Clicked on Search Button on HomePage.....
+15:32:14.490 [main] INFO  com.cloudmore.ui.pages.Cloudmore_HomePage_Actions - 
+
+Search Textbox is displayed on clicking Search Button.....
+15:32:24.774 [main] INFO  com.cloudmore.ui.pages.Cloudmore_SearchPage_Actions - 
+Search Textbox is displayed on screen 
+
+15:32:24.887 [main] INFO  com.cloudmore.ui.pages.Cloudmore_SearchPage_Actions - 
+Enter search string : helluva in Search Textbox 
+
+15:32:29.244 [main] INFO  com.cloudmore.ui.pages.Cloudmore_SearchPage_Actions - 
+ Clicked on Search Button 
+
+15:32:39.502 [main] INFO  com.cloudmore.ui.pages.Cloudmore_SearchPage_Actions - Verifying Search Results Notification...
+15:32:39.576 [main] INFO  com.cloudmore.ui.pages.Cloudmore_SearchPage_Actions - helluva: is displayed on screen
+15:32:50.068 [main] INFO  com.cloudmore.ui.pages.Cloudmore_SearchPage_Actions - 
+
+ Total Search Results returned : : 1
+15:33:13.900 [main] INFO  com.cloudmore.ui.pages.Cloudmore_SearchPage_Actions - Resize Window to mobile screen and take screenshot
+15:33:45.290 [main] INFO  com.cloudmore.ui.pages.Cloudmore_SearchPage_Actions - 
+ Maximize browser Window after taking screenshot
+
+15:33:47.437 [main] INFO  com.cloudmore.ui.pages.Cloudmore_SearchPage_Actions - ************* SEARCH RESULTS FOUND : 1
+15:33:58.838 [main] INFO  com.cloudmore.base.TestBase - 
+
+************Close Browser Window ********
+
+15:34:00.301 [main] INFO  com.cloudmore.base.TestBase - ************Test Complete ********
+15:55:43.418 [TestNG-test=uiTest-1] INFO  com.cloudmore.base.TestBase - Browser is launched...
+15:56:02.818 [TestNG-test=uiTest-1] INFO  com.cloudmore.ui.pages.Cloudmore_HomePage_Actions - 
+
+Clicked on Search Button on HomePage.....
+15:56:04.394 [TestNG-test=uiTest-1] INFO  com.cloudmore.ui.pages.Cloudmore_HomePage_Actions - 
+
+Search Textbox is displayed on clicking Search Button.....
+15:56:08.715 [TestNG-test=uiTest-1] INFO  com.cloudmore.ui.pages.Cloudmore_SearchPage_Actions - 
+Search Textbox is displayed on screen 
+
+15:56:09.315 [TestNG-test=uiTest-1] INFO  com.cloudmore.ui.pages.Cloudmore_SearchPage_Actions - 
+Enter search string : Solution in Search Textbox 
+
+15:56:12.487 [TestNG-test=uiTest-1] INFO  com.cloudmore.ui.pages.Cloudmore_SearchPage_Actions - 
+ Clicked on Search Button 
+
+15:56:22.715 [TestNG-test=uiTest-1] INFO  com.cloudmore.ui.pages.Cloudmore_SearchPage_Actions - Verifying Search Results Notification...
+15:56:22.818 [TestNG-test=uiTest-1] INFO  com.cloudmore.ui.pages.Cloudmore_SearchPage_Actions - Solution: is displayed on screen
+15:56:33.226 [TestNG-test=uiTest-1] INFO  com.cloudmore.ui.pages.Cloudmore_SearchPage_Actions - 
+
+ Total Search Results returned : : 10
+15:57:04.671 [TestNG-test=uiTest-1] INFO  com.cloudmore.ui.pages.Cloudmore_SearchPage_Actions - Resize Window to mobile screen and take screenshot
+15:57:44.737 [TestNG-test=uiTest-1] INFO  com.cloudmore.ui.pages.Cloudmore_SearchPage_Actions - 
+ Maximize browser Window after taking screenshot
+
+15:57:46.886 [TestNG-test=uiTest-1] INFO  com.cloudmore.ui.pages.Cloudmore_SearchPage_Actions - ************* SEARCH RESULTS FOUND : 10
+15:57:47.186 [TestNG-test=uiTest-1] INFO  com.cloudmore.ui.pages.Cloudmore_HomePage_Actions - 
+
+Clicked on Search Button on HomePage.....
+15:57:47.290 [TestNG-test=uiTest-1] INFO  com.cloudmore.ui.pages.Cloudmore_HomePage_Actions - 
+
+Search Textbox is displayed on clicking Search Button.....
+15:57:57.529 [TestNG-test=uiTest-1] INFO  com.cloudmore.ui.pages.Cloudmore_SearchPage_Actions - 
+Search Textbox is displayed on screen 
+
+15:57:57.682 [TestNG-test=uiTest-1] INFO  com.cloudmore.ui.pages.Cloudmore_SearchPage_Actions - 
+Enter search string : helluva in Search Textbox 
+
+15:58:01.790 [TestNG-test=uiTest-1] INFO  com.cloudmore.ui.pages.Cloudmore_SearchPage_Actions - 
+ Clicked on Search Button 
+
+15:58:12.146 [TestNG-test=uiTest-1] INFO  com.cloudmore.ui.pages.Cloudmore_SearchPage_Actions - Verifying Search Results Notification...
+15:58:12.226 [TestNG-test=uiTest-1] INFO  com.cloudmore.ui.pages.Cloudmore_SearchPage_Actions - helluva: is displayed on screen
+15:58:22.631 [TestNG-test=uiTest-1] INFO  com.cloudmore.ui.pages.Cloudmore_SearchPage_Actions - 
+
+ Total Search Results returned : : 1
+15:58:45.697 [TestNG-test=uiTest-1] INFO  com.cloudmore.ui.pages.Cloudmore_SearchPage_Actions - Resize Window to mobile screen and take screenshot
+15:59:16.861 [TestNG-test=uiTest-1] INFO  com.cloudmore.ui.pages.Cloudmore_SearchPage_Actions - 
+ Maximize browser Window after taking screenshot
+
+15:59:18.990 [TestNG-test=uiTest-1] INFO  com.cloudmore.ui.pages.Cloudmore_SearchPage_Actions - ************* SEARCH RESULTS FOUND : 1
+15:59:30.060 [TestNG-test=uiTest-1] INFO  com.cloudmore.base.TestBase - 
+
+************Close Browser Window ********
+
+15:59:30.986 [TestNG-test=uiTest-1] INFO  com.cloudmore.base.TestBase - ************Test Complete ********
+18:48:45.991 [main] INFO  com.cloudmore.base.TestBase - Browser is launched...
+18:49:03.480 [main] INFO  com.cloudmore.assignment.Assignment_PartB_Test - 
+
+
+
+ ************CHECK MENU ITEMS ON HOMEPAGE ************
+
+18:49:03.480 [main] INFO  com.cloudmore.assignment.Assignment_PartB_Test - 
+
+ Following MenuItems should be displayed : 
+[Solutions, Products, Resources, Pricing, Company]
+18:49:15.923 [main] INFO  com.cloudmore.ui.pages.Cloudmore_HomePage_Actions - 
+*****SOLUTIONS_MENU is displayed****
+18:49:17.725 [main] INFO  com.cloudmore.ui.pages.Cloudmore_HomePage_Actions - 
+******RESOURCES_MENU is displayed********
+18:49:19.158 [main] INFO  com.cloudmore.ui.pages.Cloudmore_HomePage_Actions - 
+*******PRICING_MENU is displayed***
+18:49:20.625 [main] INFO  com.cloudmore.ui.pages.Cloudmore_HomePage_Actions - 
+********COMPANY_MENU is displayed****
+18:49:21.714 [main] INFO  com.cloudmore.assignment.Assignment_PartB_Test - ALL Menu items are displayed on homepage
+18:49:24.843 [main] INFO  com.cloudmore.base.TestBase - 
+
+************Close Browser Window ********
+
+18:50:22.764 [main] INFO  com.cloudmore.base.TestBase - Browser is launched...
+18:50:36.148 [main] INFO  com.cloudmore.assignment.Assignment_PartB_Test - 
+
+
+
+ ************CHECK LOGO IS DISPLAYED ON HOMESCREEN ************
+
+18:50:36.150 [main] INFO  com.cloudmore.ui.pages.Cloudmore_HomePage_Actions - Checking Cloudmore Logo on HomePage...
+18:50:46.042 [main] INFO  com.cloudmore.ui.pages.Cloudmore_HomePage_Actions - Cloudmore Logo is displayed on HomePage...
+18:50:46.326 [main] INFO  com.cloudmore.assignment.Assignment_PartB_Test - 
+
+ ************ LOGO IS DISPLAYED  ************
+
+18:50:47.539 [main] INFO  com.cloudmore.base.TestBase - 
+
+************Close Browser Window ********
+
+18:51:05.003 [main] INFO  com.cloudmore.base.TestBase - Browser is launched...
+18:51:13.183 [main] INFO  com.cloudmore.ui.pages.Cloudmore_HomePage_Actions - 
+
+Clicked on Search Button on HomePage.....
+18:51:14.918 [main] INFO  com.cloudmore.ui.pages.Cloudmore_HomePage_Actions - 
+
+Search Textbox is displayed on clicking Search Button.....
+18:51:23.792 [main] INFO  com.cloudmore.ui.pages.Cloudmore_SearchPage_Actions - 
+Search Textbox is displayed on screen 
+
+18:51:24.371 [main] INFO  com.cloudmore.ui.pages.Cloudmore_SearchPage_Actions - 
+Enter search string : Solution in Search Textbox 
+
+18:51:31.169 [main] INFO  com.cloudmore.ui.pages.Cloudmore_SearchPage_Actions - 
+ Clicked on Search Button 
+
+18:51:41.411 [main] INFO  com.cloudmore.ui.pages.Cloudmore_SearchPage_Actions - Verifying Search Results Notification...
+18:51:41.511 [main] INFO  com.cloudmore.ui.pages.Cloudmore_SearchPage_Actions - Solution: is displayed on screen
+18:51:51.833 [main] INFO  com.cloudmore.ui.pages.Cloudmore_SearchPage_Actions - 
+
+ Total Search Results returned : : 10
+18:52:10.690 [main] INFO  com.cloudmore.ui.pages.Cloudmore_SearchPage_Actions - Resize Window to mobile screen and take screenshot
+18:52:50.218 [main] INFO  com.cloudmore.ui.pages.Cloudmore_SearchPage_Actions - 
+ Maximize browser Window after taking screenshot
+
+18:52:52.375 [main] INFO  com.cloudmore.ui.pages.Cloudmore_SearchPage_Actions - ************* SEARCH RESULTS FOUND : 10
+18:52:52.845 [main] INFO  com.cloudmore.ui.pages.Cloudmore_HomePage_Actions - 
+
+Clicked on Search Button on HomePage.....
+18:52:52.915 [main] INFO  com.cloudmore.ui.pages.Cloudmore_HomePage_Actions - 
+
+Search Textbox is displayed on clicking Search Button.....
+18:53:03.179 [main] INFO  com.cloudmore.ui.pages.Cloudmore_SearchPage_Actions - 
+Search Textbox is displayed on screen 
+
+18:53:03.353 [main] INFO  com.cloudmore.ui.pages.Cloudmore_SearchPage_Actions - 
+Enter search string : helluva in Search Textbox 
+
+18:53:16.630 [main] INFO  com.cloudmore.ui.pages.Cloudmore_SearchPage_Actions - 
+ Clicked on Search Button 
+
+18:53:26.813 [main] INFO  com.cloudmore.ui.pages.Cloudmore_SearchPage_Actions - Verifying Search Results Notification...
+18:53:26.860 [main] INFO  com.cloudmore.ui.pages.Cloudmore_SearchPage_Actions - helluva: is displayed on screen
+18:53:37.205 [main] INFO  com.cloudmore.ui.pages.Cloudmore_SearchPage_Actions - 
+
+ Total Search Results returned : : 1
+18:54:01.916 [main] INFO  com.cloudmore.ui.pages.Cloudmore_SearchPage_Actions - Resize Window to mobile screen and take screenshot
+18:54:33.056 [main] INFO  com.cloudmore.ui.pages.Cloudmore_SearchPage_Actions - 
+ Maximize browser Window after taking screenshot
+
+18:54:35.292 [main] INFO  com.cloudmore.ui.pages.Cloudmore_SearchPage_Actions - ************* SEARCH RESULTS FOUND : 1
+18:54:46.578 [main] INFO  com.cloudmore.base.TestBase - 
+
+************Close Browser Window ********
+
+18:54:48.512 [main] INFO  com.cloudmore.base.TestBase - ************Test Complete ********
+18:54:50.883 [main] INFO  com.cloudmore.assignment.Assignment_PartC_Test - 
+
+ **************** POST -  API - CreateWithArray *******************
+
+
+18:54:51.127 [main] INFO  com.cloudmore.assignment.Assignment_PartC_Test - 
+
+Sending json payload in Request:
+ [
+  {
+    "id": 1,
+    "username": "user111",
+    "firstName": "Anoop",
+    "lastName": "Sh",
+    "email": "usera@gmail.com",
+    "password": "12345",
+    "phone": "12121212",
+    "userStatus": 0 
+  },
+ { 
+ 	"id": 2,
+    "username": "user222",
+    "firstName": "Ajay",
+    "lastName": "Kum",
+    "email": "userb@gmail.com",
+    "password": "34343434",
+    "phone": "91332256",
+    "userStatus": 0   
+ }
+  ]
+18:54:57.703 [main] INFO  com.cloudmore.api.RestAssuredApiActions - URL : https://petstore.swagger.io/v2/user/createWithArray
+18:55:05.667 [main] INFO  com.cloudmore.api.RestAssuredApiActions - 
+
+ API has returned HTTP Code
+HTTP/1.1 200 OK
+18:55:05.680 [main] INFO  com.cloudmore.assignment.Assignment_PartC_Test - 
+
+API 'createWithArray' has returned response
+{"code":200,"type":"unknown","message":"ok"}
+18:55:05.680 [main] INFO  com.cloudmore.assignment.Assignment_PartC_Test - 
+
+ POST Operation is successfully performed 
+
+18:55:05.684 [main] INFO  com.cloudmore.assignment.Assignment_PartC_Test - 
+************************ DELETE API - deleteUser ***************************************
+
+18:55:07.244 [main] INFO  com.cloudmore.api.RestAssuredApiActions - 
+
+ API has returned HTTP Code
+HTTP/1.1 200 OK
+18:55:07.892 [main] INFO  com.cloudmore.assignment.Assignment_PartC_Test - 
+
+API has returned response : {
+    "code": 200,
+    "type": "unknown",
+    "message": "user222"
+}
+18:55:07.892 [main] INFO  com.cloudmore.assignment.Assignment_PartC_Test - 
+
+ DELETE Operation is successful
+HTTP/1.1 200 OK
+18:55:07.892 [main] INFO  com.cloudmore.assignment.Assignment_PartC_Test - 
+**************** ***************************************
+
+18:55:07.892 [main] INFO  com.cloudmore.assignment.Assignment_PartC_Test - **************** OPTIONAL>> GET Call ***************************************
+
+18:55:09.456 [main] INFO  com.cloudmore.api.RestAssuredApiActions - 
+
+ API has returned HTTP Code
+HTTP/1.1 404 Not Found
+18:55:09.460 [main] INFO  com.cloudmore.assignment.Assignment_PartC_Test - 
+
+API has returned response : {
+    "code": 1,
+    "type": "error",
+    "message": "User not found"
+}
+18:55:10.727 [main] INFO  com.cloudmore.assignment.Assignment_PartC_Test - 
+
+ USER NOT FOUND  :
+ HTTP/1.1 404 Not Found
+18:55:10.733 [main] INFO  com.cloudmore.assignment.Assignment_PartC_Test - 
+**************** GET - getUserByUserName [Run After Post call]***************************************
+
+18:55:12.907 [main] INFO  com.cloudmore.api.RestAssuredApiActions - 
+
+ API has returned HTTP Code
+HTTP/1.1 200 OK
+18:55:12.910 [main] INFO  com.cloudmore.assignment.Assignment_PartC_Test - 
+
+API has returned response : {
+    "id": 1,
+    "username": "user111",
+    "firstName": "Anoop",
+    "lastName": "Sh",
+    "email": "usera@gmail.com",
+    "password": "12345",
+    "phone": "12121212",
+    "userStatus": 0
+}
+18:55:12.920 [main] INFO  com.cloudmore.assignment.Assignment_PartC_Test - 
+
+ GET Operation is successful
+HTTP/1.1 200 OK
+18:55:12.946 [main] INFO  com.cloudmore.assignment.Assignment_PartC_Test - 
+
+API has returned userDetails -- 
+id : 1
+username : user111
+firstName : Anoop
+lastName : Sh
+email : usera@gmail.com
+password : 12345
+phone : 12121212
+
+18:55:12.949 [main] INFO  com.cloudmore.assignment.Assignment_PartC_Test - 
+
+********************* PUT API -UpdateUser ***************************************
+
+18:55:13.017 [main] INFO  com.cloudmore.assignment.Assignment_PartC_Test - 
+
+Update User : user111 with new details : 
+  { 
+    "id": 1,
+    "username": "user111",
+    "firstName": "Ilja",
+    "lastName": "Dm",
+    "email": "updatedUser@gmail.com",
+    "password": "12345",
+    "phone": "12121212",
+    "userStatus": 0 
+  }
+ 
+18:55:13.018 [main] INFO  com.cloudmore.api.RestAssuredApiActions - URL : https://petstore.swagger.io/v2/user/user111
+18:55:14.548 [main] INFO  com.cloudmore.api.RestAssuredApiActions - 
+
+ API has returned HTTP Code
+HTTP/1.1 200 OK
+18:55:14.550 [main] INFO  com.cloudmore.assignment.Assignment_PartC_Test - 
+
+API has returned response : *********
+{
+    "code": 200,
+    "type": "unknown",
+    "message": "1"
+}
+18:55:14.558 [main] INFO  com.cloudmore.assignment.Assignment_PartC_Test - 
+
+ PUT Operation is successful
+HTTP/1.1 200 OK
+18:55:16.215 [main] INFO  com.cloudmore.api.RestAssuredApiActions - 
+
+ API has returned HTTP Code
+HTTP/1.1 200 OK
+18:55:16.216 [main] INFO  com.cloudmore.assignment.Assignment_PartC_Test - Call GET API to check the update is performed successfully : {
+    "id": 1,
+    "username": "user111",
+    "firstName": "Ilja",
+    "lastName": "Dm",
+    "email": "updatedUser@gmail.com",
+    "password": "12345",
+    "phone": "12121212",
+    "userStatus": 0
+}
+18:55:16.397 [main] INFO  com.cloudmore.assignment.Assignment_PartC_Test - 
+
+ PUT Operation is successful
+
+Updated User Detais
+HTTP/1.1 200 OK
+18:55:16.408 [main] INFO  com.cloudmore.assignment.Assignment_PartC_Test - 
+
+API has returned userDetails -- 
+id : 1
+username : user111
+firstName: Ilja
+lastName : Dm
+email    : updatedUser@gmail.com
+password : 12345
+phone    : 12121212
+
+19:41:23.854 [main] INFO  com.cloudmore.base.TestBase - Chrome Browser is launched...
+19:41:34.952 [main] INFO  com.cloudmore.assignment.Assignment_PartB_Test - 
+
+
+
+ ************CHECK MENU ITEMS ON HOMEPAGE ************
+
+19:41:34.960 [main] INFO  com.cloudmore.assignment.Assignment_PartB_Test - 
+
+ Following MenuItems should be displayed : 
+[Solutions, Products, Resources, Pricing, Company]
+19:41:47.348 [main] INFO  com.cloudmore.ui.pages.Cloudmore_HomePage_Actions - 
+*****SOLUTIONS_MENU is displayed****
+19:41:48.577 [main] INFO  com.cloudmore.ui.pages.Cloudmore_HomePage_Actions - 
+******RESOURCES_MENU is displayed********
+19:41:49.161 [main] INFO  com.cloudmore.ui.pages.Cloudmore_HomePage_Actions - 
+*******PRICING_MENU is displayed***
+19:41:49.841 [main] INFO  com.cloudmore.ui.pages.Cloudmore_HomePage_Actions - 
+********COMPANY_MENU is displayed****
+19:41:50.349 [main] INFO  com.cloudmore.assignment.Assignment_PartB_Test - 
+ALL Menu items are displayed on homepage
+19:41:51.276 [main] INFO  com.cloudmore.base.TestBase - 
+
+************Close Browser Window ********
+
+19:41:57.503 [main] INFO  com.cloudmore.base.TestBase - Chrome Browser is launched...
+19:42:02.706 [main] INFO  com.cloudmore.assignment.Assignment_PartB_Test - 
+
+
+
+ ************CHECK LOGO IS DISPLAYED ON HOMESCREEN ************
+
+19:42:02.720 [main] INFO  com.cloudmore.ui.pages.Cloudmore_HomePage_Actions - Checking Cloudmore Logo on HomePage...
+19:42:05.417 [main] INFO  com.cloudmore.ui.pages.Cloudmore_HomePage_Actions - Cloudmore Logo is displayed on HomePage...
+19:42:05.808 [main] INFO  com.cloudmore.assignment.Assignment_PartB_Test - 
+
+ ************ LOGO IS DISPLAYED  ************
+
+19:42:06.135 [main] INFO  com.cloudmore.base.TestBase - 
+
+************Close Browser Window ********
+
+19:42:12.559 [main] INFO  com.cloudmore.base.TestBase - Chrome Browser is launched...
+19:42:22.033 [main] INFO  com.cloudmore.ui.pages.Cloudmore_HomePage_Actions - 
+
+Clicked on Search Button on HomePage.....
+19:42:22.202 [main] INFO  com.cloudmore.ui.pages.Cloudmore_HomePage_Actions - 
+
+Search Textbox is displayed on clicking Search Button.....
+19:42:34.404 [main] INFO  com.cloudmore.ui.pages.Cloudmore_SearchPage_Actions - 
+Search Textbox is displayed on screen 
+
+19:42:37.735 [main] INFO  com.cloudmore.ui.pages.Cloudmore_SearchPage_Actions - 
+Enter search string : helluva in Search Textbox 
+
+19:42:56.360 [main] INFO  com.cloudmore.ui.pages.Cloudmore_SearchPage_Actions - 
+ Clicked on Search Button 
+
+19:42:57.642 [main] INFO  com.cloudmore.ui.pages.Cloudmore_SearchPage_Actions - Verifying Search Results Notification...
+19:42:58.092 [main] INFO  com.cloudmore.ui.pages.Cloudmore_SearchPage_Actions - helluva: is displayed on screen
+19:43:09.951 [main] INFO  com.cloudmore.ui.pages.Cloudmore_SearchPage_Actions - 
+
+ Total Search Results returned : : 1
+19:43:33.631 [main] INFO  com.cloudmore.ui.pages.Cloudmore_SearchPage_Actions - Resize Window to mobile screen and take screenshot
+19:44:06.755 [main] INFO  com.cloudmore.ui.pages.Cloudmore_SearchPage_Actions - 
+ Maximize browser Window after taking screenshot
+
+19:44:09.176 [main] INFO  com.cloudmore.ui.pages.Cloudmore_SearchPage_Actions - ************* SEARCH RESULTS FOUND : 1
+19:44:12.923 [main] INFO  com.cloudmore.base.TestBase - 
+
+************Close Browser Window ********
+
+19:44:27.261 [main] INFO  com.cloudmore.base.TestBase - Chrome Browser is launched...
+19:45:15.965 [main] INFO  com.cloudmore.ui.pages.Cloudmore_HomePage_Actions - 
+
+Clicked on Search Button on HomePage.....
+19:45:16.056 [main] INFO  com.cloudmore.ui.pages.Cloudmore_HomePage_Actions - 
+
+Search Textbox is displayed on clicking Search Button.....
+19:45:16.790 [main] INFO  com.cloudmore.ui.pages.Cloudmore_SearchPage_Actions - 
+Search Textbox is displayed on screen 
+
+19:45:17.244 [main] INFO  com.cloudmore.ui.pages.Cloudmore_SearchPage_Actions - 
+Enter search string : Solution in Search Textbox 
+
+19:45:23.121 [main] INFO  com.cloudmore.ui.pages.Cloudmore_SearchPage_Actions - 
+ Clicked on Search Button 
+
+19:45:33.669 [main] INFO  com.cloudmore.ui.pages.Cloudmore_SearchPage_Actions - Verifying Search Results Notification...
+19:45:34.586 [main] INFO  com.cloudmore.ui.pages.Cloudmore_SearchPage_Actions - Solution: is displayed on screen
+19:45:45.934 [main] INFO  com.cloudmore.ui.pages.Cloudmore_SearchPage_Actions - 
+
+ Total Search Results returned : : 10
+19:46:20.609 [main] INFO  com.cloudmore.ui.pages.Cloudmore_SearchPage_Actions - Resize Window to mobile screen and take screenshot
+19:46:20.869 [main] INFO  com.cloudmore.ui.pages.Cloudmore_SearchPage_Actions - 
+ An Exception has occured : org.openqa.selenium.WebDriverException: unknown error: failed to change window state to 'normal', current state is 'maximized'
+  (Session info: chrome=107.0.5304.121)
+Build info: version: '4.6.0', revision: '79f1c02ae20'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_202'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [1a244dd9c018e4d09943874c114a4dc3, setCurrentWindowSize {width=133, height=5372}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 107.0.5304.121, chrome: {chromedriverVersion: 107.0.5304.62 (1eec40d3a576..., userDataDir: C:\Users\anoop\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:61810}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:61810/devtoo..., se:cdpVersion: 107.0.5304.121, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 1a244dd9c018e4d09943874c114a4dc3
+19:46:46.670 [main] INFO  com.cloudmore.base.TestBase - 
+
+************Close Browser Window ********
+
+19:46:50.939 [main] INFO  com.cloudmore.base.TestBase - ************Test Complete ********
+19:47:00.209 [main] INFO  com.cloudmore.assignment.Assignment_PartC_Test - 
+
+ **************** POST -  API - CreateWithArray *******************
+
+
+19:47:00.315 [main] INFO  com.cloudmore.assignment.Assignment_PartC_Test - 
+
+Sending json payload in Request:
+ [
+  {
+    "id": 1,
+    "username": "user111",
+    "firstName": "Anoop",
+    "lastName": "Sh",
+    "email": "usera@gmail.com",
+    "password": "12345",
+    "phone": "12121212",
+    "userStatus": 0 
+  },
+ { 
+ 	"id": 2,
+    "username": "user222",
+    "firstName": "Ajay",
+    "lastName": "Kum",
+    "email": "userb@gmail.com",
+    "password": "34343434",
+    "phone": "91332256",
+    "userStatus": 0   
+ }
+  ]
+19:47:09.427 [main] INFO  com.cloudmore.api.RestAssuredApiActions - URL : https://petstore.swagger.io/v2/user/createWithArray
+19:47:18.199 [main] INFO  com.cloudmore.api.RestAssuredApiActions - 
+
+ API has returned HTTP Code
+HTTP/1.1 200 OK
+19:47:18.304 [main] INFO  com.cloudmore.assignment.Assignment_PartC_Test - 
+
+API 'createWithArray' has returned response
+{"code":200,"type":"unknown","message":"ok"}
+19:47:18.305 [main] INFO  com.cloudmore.assignment.Assignment_PartC_Test - 
+
+ POST Operation is successfully performed 
+
+19:47:18.314 [main] INFO  com.cloudmore.assignment.Assignment_PartC_Test - 
+************************ DELETE API - deleteUser ***************************************
+
+19:47:19.832 [main] INFO  com.cloudmore.api.RestAssuredApiActions - 
+
+ API has returned HTTP Code
+HTTP/1.1 200 OK
+19:47:20.561 [main] INFO  com.cloudmore.assignment.Assignment_PartC_Test - 
+
+API has returned response : {
+    "code": 200,
+    "type": "unknown",
+    "message": "user222"
+}
+19:47:20.561 [main] INFO  com.cloudmore.assignment.Assignment_PartC_Test - 
+
+ DELETE Operation is successful
+HTTP/1.1 200 OK
+19:47:20.561 [main] INFO  com.cloudmore.assignment.Assignment_PartC_Test - 
+**************** ***************************************
+
+19:47:20.561 [main] INFO  com.cloudmore.assignment.Assignment_PartC_Test - **************** OPTIONAL>> GET Call ***************************************
+
+19:47:22.101 [main] INFO  com.cloudmore.api.RestAssuredApiActions - 
+
+ API has returned HTTP Code
+HTTP/1.1 404 Not Found
+19:47:22.101 [main] INFO  com.cloudmore.assignment.Assignment_PartC_Test - 
+
+API has returned response : {
+    "code": 1,
+    "type": "error",
+    "message": "User not found"
+}
+19:47:27.512 [main] INFO  com.cloudmore.assignment.Assignment_PartC_Test - 
+
+ USER NOT FOUND  :
+ HTTP/1.1 404 Not Found
+19:47:27.518 [main] INFO  com.cloudmore.assignment.Assignment_PartC_Test - 
+**************** GET - getUserByUserName [Run After Post call]***************************************
+
+19:47:30.324 [main] INFO  com.cloudmore.api.RestAssuredApiActions - 
+
+ API has returned HTTP Code
+HTTP/1.1 200 OK
+19:47:30.332 [main] INFO  com.cloudmore.assignment.Assignment_PartC_Test - 
+
+API has returned response : {
+    "id": 1,
+    "username": "user111",
+    "firstName": "Anoop",
+    "lastName": "Sh",
+    "email": "usera@gmail.com",
+    "password": "12345",
+    "phone": "12121212",
+    "userStatus": 0
+}
+19:47:30.342 [main] INFO  com.cloudmore.assignment.Assignment_PartC_Test - 
+
+ GET Operation is successful
+HTTP/1.1 200 OK
+19:47:30.359 [main] INFO  com.cloudmore.assignment.Assignment_PartC_Test - 
+
+API has returned userDetails -- 
+id : 1
+username : user111
+firstName : Anoop
+lastName : Sh
+email : usera@gmail.com
+password : 12345
+phone : 12121212
+
+19:47:30.367 [main] INFO  com.cloudmore.assignment.Assignment_PartC_Test - 
+
+********************* PUT API -UpdateUser ***************************************
+
+19:47:30.369 [main] INFO  com.cloudmore.assignment.Assignment_PartC_Test - 
+
+Update User : user111 with new details : 
+  { 
+    "id": 1,
+    "username": "user111",
+    "firstName": "Ilja",
+    "lastName": "Dm",
+    "email": "updatedUser@gmail.com",
+    "password": "12345",
+    "phone": "12121212",
+    "userStatus": 0 
+  }
+ 
+19:47:30.370 [main] INFO  com.cloudmore.api.RestAssuredApiActions - URL : https://petstore.swagger.io/v2/user/user111
+19:47:32.262 [main] INFO  com.cloudmore.api.RestAssuredApiActions - 
+
+ API has returned HTTP Code
+HTTP/1.1 200 OK
+19:47:32.265 [main] INFO  com.cloudmore.assignment.Assignment_PartC_Test - 
+
+API has returned response : *********
+{
+    "code": 200,
+    "type": "unknown",
+    "message": "1"
+}
+19:47:32.288 [main] INFO  com.cloudmore.assignment.Assignment_PartC_Test - 
+
+ PUT Operation is successful
+HTTP/1.1 200 OK
+19:47:34.173 [main] INFO  com.cloudmore.api.RestAssuredApiActions - 
+
+ API has returned HTTP Code
+HTTP/1.1 200 OK
+19:47:34.177 [main] INFO  com.cloudmore.assignment.Assignment_PartC_Test - Call GET API to check the update is performed successfully : {
+    "id": 1,
+    "username": "user111",
+    "firstName": "Ilja",
+    "lastName": "Dm",
+    "email": "updatedUser@gmail.com",
+    "password": "12345",
+    "phone": "12121212",
+    "userStatus": 0
+}
+19:47:34.383 [main] INFO  com.cloudmore.assignment.Assignment_PartC_Test - 
+
+ PUT Operation is successful
+
+Updated User Detais
+HTTP/1.1 200 OK
+19:47:34.383 [main] INFO  com.cloudmore.assignment.Assignment_PartC_Test - 
+
+API has returned userDetails -- 
+id : 1
+username : user111
+firstName: Ilja
+lastName : Dm
+email    : updatedUser@gmail.com
+password : 12345
+phone    : 12121212
+
+19:49:16.343 [main] INFO  com.cloudmore.base.TestBase - Chrome Browser is launched...
+19:49:22.923 [main] INFO  com.cloudmore.assignment.Assignment_PartB_Test - 
+
+
+
+ ************CHECK MENU ITEMS ON HOMEPAGE ************
+
+19:49:22.941 [main] INFO  com.cloudmore.assignment.Assignment_PartB_Test - 
+
+ Following MenuItems should be displayed : 
+[Solutions, Products, Resources, Pricing, Company]
+19:49:33.757 [main] INFO  com.cloudmore.ui.pages.Cloudmore_HomePage_Actions - 
+*****SOLUTIONS_MENU is displayed****
+19:49:34.273 [main] INFO  com.cloudmore.ui.pages.Cloudmore_HomePage_Actions - 
+******RESOURCES_MENU is displayed********
+19:49:34.776 [main] INFO  com.cloudmore.ui.pages.Cloudmore_HomePage_Actions - 
+*******PRICING_MENU is displayed***
+19:49:35.102 [main] INFO  com.cloudmore.ui.pages.Cloudmore_HomePage_Actions - 
+********COMPANY_MENU is displayed****
+19:49:35.456 [main] INFO  com.cloudmore.assignment.Assignment_PartB_Test - 
+ALL Menu items are displayed on homepage
+19:49:36.466 [main] INFO  com.cloudmore.base.TestBase - 
+
+************Close Browser Window ********
+
+19:49:41.996 [main] INFO  com.cloudmore.base.TestBase - Chrome Browser is launched...
+19:49:50.119 [main] INFO  com.cloudmore.assignment.Assignment_PartB_Test - 
+
+
+
+ ************CHECK LOGO IS DISPLAYED ON HOMESCREEN ************
+
+19:49:50.127 [main] INFO  com.cloudmore.ui.pages.Cloudmore_HomePage_Actions - Checking Cloudmore Logo on HomePage...
+19:50:00.379 [main] INFO  com.cloudmore.ui.pages.Cloudmore_HomePage_Actions - Cloudmore Logo is displayed on HomePage...
+19:50:00.875 [main] INFO  com.cloudmore.assignment.Assignment_PartB_Test - 
+
+ ************ LOGO IS DISPLAYED  ************
+
+19:50:01.292 [main] INFO  com.cloudmore.base.TestBase - 
+
+************Close Browser Window ********
+
+19:50:07.107 [main] INFO  com.cloudmore.base.TestBase - Chrome Browser is launched...
+19:50:17.738 [main] INFO  com.cloudmore.ui.pages.Cloudmore_HomePage_Actions - 
+
+Clicked on Search Button on HomePage.....
+19:50:20.023 [main] INFO  com.cloudmore.ui.pages.Cloudmore_HomePage_Actions - 
+
+Search Textbox is displayed on clicking Search Button.....
+19:50:25.697 [main] INFO  com.cloudmore.ui.pages.Cloudmore_SearchPage_Actions - 
+Search Textbox is displayed on screen 
+
+19:50:26.632 [main] INFO  com.cloudmore.ui.pages.Cloudmore_SearchPage_Actions - 
+Enter search string : helluva in Search Textbox 
+
+19:50:56.173 [main] INFO  com.cloudmore.ui.pages.Cloudmore_SearchPage_Actions - 
+ Clicked on Search Button 
+
+19:51:06.677 [main] INFO  com.cloudmore.ui.pages.Cloudmore_SearchPage_Actions - Verifying Search Results Notification...
+19:51:07.303 [main] INFO  com.cloudmore.ui.pages.Cloudmore_SearchPage_Actions - helluva: is displayed on screen
+19:51:19.667 [main] INFO  com.cloudmore.ui.pages.Cloudmore_SearchPage_Actions - 
+
+ Total Search Results returned : : 1
+19:51:44.447 [main] INFO  com.cloudmore.ui.pages.Cloudmore_SearchPage_Actions - Resize Window to mobile screen and take screenshot
+19:52:16.698 [main] INFO  com.cloudmore.ui.pages.Cloudmore_SearchPage_Actions - 
+ Maximize browser Window after taking screenshot
+
+19:52:18.823 [main] INFO  com.cloudmore.ui.pages.Cloudmore_SearchPage_Actions - ************* SEARCH RESULTS FOUND : 1
+19:52:20.623 [main] INFO  com.cloudmore.base.TestBase - 
+
+************Close Browser Window ********
+
+19:52:27.224 [main] INFO  com.cloudmore.base.TestBase - Chrome Browser is launched...
+19:52:42.902 [main] INFO  com.cloudmore.ui.pages.Cloudmore_HomePage_Actions - 
+
+Clicked on Search Button on HomePage.....
+19:52:42.967 [main] INFO  com.cloudmore.ui.pages.Cloudmore_HomePage_Actions - 
+
+Search Textbox is displayed on clicking Search Button.....
+19:52:53.162 [main] INFO  com.cloudmore.ui.pages.Cloudmore_SearchPage_Actions - 
+Search Textbox is displayed on screen 
+
+19:52:53.466 [main] INFO  com.cloudmore.ui.pages.Cloudmore_SearchPage_Actions - 
+Enter search string : Solution in Search Textbox 
+
+19:52:59.072 [main] INFO  com.cloudmore.ui.pages.Cloudmore_SearchPage_Actions - 
+ Clicked on Search Button 
+
+19:53:01.995 [main] INFO  com.cloudmore.ui.pages.Cloudmore_SearchPage_Actions - Verifying Search Results Notification...
+19:53:02.037 [main] INFO  com.cloudmore.ui.pages.Cloudmore_SearchPage_Actions - Solution: is displayed on screen
+19:53:15.456 [main] INFO  com.cloudmore.ui.pages.Cloudmore_SearchPage_Actions - 
+
+ Total Search Results returned : : 10
+19:53:47.167 [main] INFO  com.cloudmore.ui.pages.Cloudmore_SearchPage_Actions - Resize Window to mobile screen and take screenshot
+19:54:26.415 [main] INFO  com.cloudmore.ui.pages.Cloudmore_SearchPage_Actions - 
+ Maximize browser Window after taking screenshot
+
+19:54:28.554 [main] INFO  com.cloudmore.ui.pages.Cloudmore_SearchPage_Actions - ************* SEARCH RESULTS FOUND : 10
+19:54:30.093 [main] INFO  com.cloudmore.base.TestBase - 
+
+************Close Browser Window ********
+
+19:54:32.455 [main] INFO  com.cloudmore.base.TestBase - ************Test Complete ********
+19:54:33.956 [main] INFO  com.cloudmore.assignment.Assignment_PartC_Test - 
+
+ **************** POST -  API - CreateWithArray *******************
+
+
+19:54:33.972 [main] INFO  com.cloudmore.assignment.Assignment_PartC_Test - 
+
+Sending json payload in Request:
+ [
+  {
+    "id": 1,
+    "username": "user111",
+    "firstName": "Anoop",
+    "lastName": "Sh",
+    "email": "usera@gmail.com",
+    "password": "12345",
+    "phone": "12121212",
+    "userStatus": 0 
+  },
+ { 
+ 	"id": 2,
+    "username": "user222",
+    "firstName": "Ajay",
+    "lastName": "Kum",
+    "email": "userb@gmail.com",
+    "password": "34343434",
+    "phone": "91332256",
+    "userStatus": 0   
+ }
+  ]
+19:54:41.514 [main] INFO  com.cloudmore.api.RestAssuredApiActions - URL : https://petstore.swagger.io/v2/user/createWithArray
+19:54:46.780 [main] INFO  com.cloudmore.api.RestAssuredApiActions - 
+
+ API has returned HTTP Code
+HTTP/1.1 200 OK
+19:54:46.799 [main] INFO  com.cloudmore.assignment.Assignment_PartC_Test - 
+
+API 'createWithArray' has returned response
+{"code":200,"type":"unknown","message":"ok"}
+19:54:46.799 [main] INFO  com.cloudmore.assignment.Assignment_PartC_Test - 
+
+ POST Operation is successfully performed 
+
+19:54:46.799 [main] INFO  com.cloudmore.assignment.Assignment_PartC_Test - 
+************************ DELETE API - deleteUser ***************************************
+
+19:54:48.349 [main] INFO  com.cloudmore.api.RestAssuredApiActions - 
+
+ API has returned HTTP Code
+HTTP/1.1 200 OK
+19:54:48.478 [main] INFO  com.cloudmore.assignment.Assignment_PartC_Test - 
+
+API has returned response : {
+    "code": 200,
+    "type": "unknown",
+    "message": "user222"
+}
+19:54:48.478 [main] INFO  com.cloudmore.assignment.Assignment_PartC_Test - 
+
+ DELETE Operation is successful
+HTTP/1.1 200 OK
+19:54:48.478 [main] INFO  com.cloudmore.assignment.Assignment_PartC_Test - 
+**************** ***************************************
+
+19:54:48.478 [main] INFO  com.cloudmore.assignment.Assignment_PartC_Test - **************** OPTIONAL>> GET Call ***************************************
+
+19:54:49.999 [main] INFO  com.cloudmore.api.RestAssuredApiActions - 
+
+ API has returned HTTP Code
+HTTP/1.1 404 Not Found
+19:54:49.999 [main] INFO  com.cloudmore.assignment.Assignment_PartC_Test - 
+
+API has returned response : {
+    "code": 1,
+    "type": "error",
+    "message": "User not found"
+}
+19:54:51.514 [main] INFO  com.cloudmore.assignment.Assignment_PartC_Test - 
+
+ USER NOT FOUND  :
+ HTTP/1.1 404 Not Found
+19:54:51.514 [main] INFO  com.cloudmore.assignment.Assignment_PartC_Test - 
+**************** GET - getUserByUserName [Run After Post call]***************************************
+
+19:54:52.933 [main] INFO  com.cloudmore.api.RestAssuredApiActions - 
+
+ API has returned HTTP Code
+HTTP/1.1 200 OK
+19:54:52.933 [main] INFO  com.cloudmore.assignment.Assignment_PartC_Test - 
+
+API has returned response : {
+    "id": 1,
+    "username": "user111",
+    "firstName": "Anoop",
+    "lastName": "Sh",
+    "email": "usera@gmail.com",
+    "password": "12345",
+    "phone": "12121212",
+    "userStatus": 0
+}
+19:54:52.948 [main] INFO  com.cloudmore.assignment.Assignment_PartC_Test - 
+
+ GET Operation is successful
+HTTP/1.1 200 OK
+19:54:52.964 [main] INFO  com.cloudmore.assignment.Assignment_PartC_Test - 
+
+API has returned userDetails -- 
+id : 1
+username : user111
+firstName : Anoop
+lastName : Sh
+email : usera@gmail.com
+password : 12345
+phone : 12121212
+
+19:54:52.964 [main] INFO  com.cloudmore.assignment.Assignment_PartC_Test - 
+
+********************* PUT API -UpdateUser ***************************************
+
+19:54:52.980 [main] INFO  com.cloudmore.assignment.Assignment_PartC_Test - 
+
+Update User : user111 with new details : 
+  { 
+    "id": 1,
+    "username": "user111",
+    "firstName": "Ilja",
+    "lastName": "Dm",
+    "email": "updatedUser@gmail.com",
+    "password": "12345",
+    "phone": "12121212",
+    "userStatus": 0 
+  }
+ 
+19:54:52.980 [main] INFO  com.cloudmore.api.RestAssuredApiActions - URL : https://petstore.swagger.io/v2/user/user111
+19:54:54.487 [main] INFO  com.cloudmore.api.RestAssuredApiActions - 
+
+ API has returned HTTP Code
+HTTP/1.1 200 OK
+19:54:54.487 [main] INFO  com.cloudmore.assignment.Assignment_PartC_Test - 
+
+API has returned response : *********
+{
+    "code": 200,
+    "type": "unknown",
+    "message": "1"
+}
+19:54:54.502 [main] INFO  com.cloudmore.assignment.Assignment_PartC_Test - 
+
+ PUT Operation is successful
+HTTP/1.1 200 OK
+19:54:55.914 [main] INFO  com.cloudmore.api.RestAssuredApiActions - 
+
+ API has returned HTTP Code
+HTTP/1.1 200 OK
+19:54:55.914 [main] INFO  com.cloudmore.assignment.Assignment_PartC_Test - Call GET API to check the update is performed successfully : {
+    "id": 1,
+    "username": "user111",
+    "firstName": "Ilja",
+    "lastName": "Dm",
+    "email": "updatedUser@gmail.com",
+    "password": "12345",
+    "phone": "12121212",
+    "userStatus": 0
+}
+19:54:55.945 [main] INFO  com.cloudmore.assignment.Assignment_PartC_Test - 
+
+ PUT Operation is successful
+
+Updated User Detais
+HTTP/1.1 200 OK
+19:54:55.945 [main] INFO  com.cloudmore.assignment.Assignment_PartC_Test - 
+
+API has returned userDetails -- 
+id : 1
+username : user111
+firstName: Ilja
+lastName : Dm
+email    : updatedUser@gmail.com
+password : 12345
+phone    : 12121212
+
+19:58:03.499 [main] INFO  com.cloudmore.base.TestBase - Chrome Browser is launched...
+19:58:03.499 [main] INFO  com.cloudmore.base.TestBase - Chrome Browser is launched...
+19:58:21.088 [main] INFO  com.cloudmore.assignment.Assignment_PartB_Test - 
+
+
+
+ ************CHECK MENU ITEMS ON HOMEPAGE ************
+
+19:58:21.096 [main] INFO  com.cloudmore.assignment.Assignment_PartB_Test - 
+
+ Following MenuItems should be displayed : 
+[Solutions, Products, Resources, Pricing, Company]
+19:58:30.529 [main] INFO  com.cloudmore.assignment.Assignment_PartB_Test - 
+
+
+
+ ************CHECK MENU ITEMS ON HOMEPAGE ************
+
+19:58:30.538 [main] INFO  com.cloudmore.assignment.Assignment_PartB_Test - 
+
+ Following MenuItems should be displayed : 
+[Solutions, Products, Resources, Pricing, Company]
+19:58:34.059 [main] INFO  com.cloudmore.ui.pages.Cloudmore_HomePage_Actions - 
+*****SOLUTIONS_MENU is displayed****
+19:58:35.974 [main] INFO  com.cloudmore.ui.pages.Cloudmore_HomePage_Actions - 
+******RESOURCES_MENU is displayed********
+19:58:36.342 [main] INFO  com.cloudmore.ui.pages.Cloudmore_HomePage_Actions - 
+*******PRICING_MENU is displayed***
+19:58:36.571 [main] INFO  com.cloudmore.ui.pages.Cloudmore_HomePage_Actions - 
+********COMPANY_MENU is displayed****
+19:58:36.852 [main] INFO  com.cloudmore.assignment.Assignment_PartB_Test - 
+ALL Menu items are displayed on homepage
+19:58:40.783 [main] INFO  com.cloudmore.ui.pages.Cloudmore_HomePage_Actions - 
+*****SOLUTIONS_MENU is displayed****
+19:58:41.111 [main] INFO  com.cloudmore.ui.pages.Cloudmore_HomePage_Actions - 
+******RESOURCES_MENU is displayed********
+19:58:41.342 [main] INFO  com.cloudmore.ui.pages.Cloudmore_HomePage_Actions - 
+*******PRICING_MENU is displayed***
+19:58:41.595 [main] INFO  com.cloudmore.ui.pages.Cloudmore_HomePage_Actions - 
+********COMPANY_MENU is displayed****
+19:58:41.851 [main] INFO  com.cloudmore.assignment.Assignment_PartB_Test - 
+ALL Menu items are displayed on homepage
+19:58:42.456 [main] INFO  com.cloudmore.base.TestBase - 
+
+************Close Browser Window ********
+
+19:58:46.662 [main] INFO  com.cloudmore.base.TestBase - Chrome Browser is launched...
+19:58:53.149 [main] INFO  com.cloudmore.base.TestBase - 
+
+************Close Browser Window ********
+
+19:58:53.687 [main] INFO  com.cloudmore.assignment.Assignment_PartB_Test - 
+
+
+
+ ************CHECK LOGO IS DISPLAYED ON HOMESCREEN ************
+
+19:58:53.690 [main] INFO  com.cloudmore.ui.pages.Cloudmore_HomePage_Actions - Checking Cloudmore Logo on HomePage...
+19:58:57.335 [main] INFO  com.cloudmore.base.TestBase - Chrome Browser is launched...
+19:59:01.284 [main] INFO  com.cloudmore.ui.pages.Cloudmore_HomePage_Actions - Cloudmore Logo is displayed on HomePage...
+19:59:01.701 [main] INFO  com.cloudmore.assignment.Assignment_PartB_Test - 
+
+ ************ LOGO IS DISPLAYED  ************
+
+19:59:02.491 [main] INFO  com.cloudmore.base.TestBase - 
+
+************Close Browser Window ********
+
+19:59:07.501 [main] INFO  com.cloudmore.assignment.Assignment_PartB_Test - 
+
+
+
+ ************CHECK LOGO IS DISPLAYED ON HOMESCREEN ************
+
+19:59:07.503 [main] INFO  com.cloudmore.ui.pages.Cloudmore_HomePage_Actions - Checking Cloudmore Logo on HomePage...
+19:59:09.698 [main] INFO  com.cloudmore.base.TestBase - Chrome Browser is launched...
+19:59:19.305 [main] INFO  com.cloudmore.ui.pages.Cloudmore_HomePage_Actions - Cloudmore Logo is displayed on HomePage...
+19:59:20.064 [main] INFO  com.cloudmore.assignment.Assignment_PartB_Test - 
+
+ ************ LOGO IS DISPLAYED  ************
+
+19:59:25.102 [main] INFO  com.cloudmore.base.TestBase - 
+
+************Close Browser Window ********
+
+19:59:30.470 [main] INFO  com.cloudmore.ui.pages.Cloudmore_HomePage_Actions - 
+
+Clicked on Search Button on HomePage.....
+19:59:30.546 [main] INFO  com.cloudmore.ui.pages.Cloudmore_HomePage_Actions - 
+
+Search Textbox is displayed on clicking Search Button.....
+19:59:33.683 [main] INFO  com.cloudmore.base.TestBase - Chrome Browser is launched...
+19:59:41.050 [main] INFO  com.cloudmore.ui.pages.Cloudmore_SearchPage_Actions - 
+Search Textbox is displayed on screen 
+
+19:59:41.668 [main] INFO  com.cloudmore.ui.pages.Cloudmore_SearchPage_Actions - 
+Enter search string : helluva in Search Textbox 
+
+19:59:53.264 [main] INFO  com.cloudmore.ui.pages.Cloudmore_SearchPage_Actions - 
+ Clicked on Search Button 
+
+19:59:57.311 [main] INFO  com.cloudmore.ui.pages.Cloudmore_SearchPage_Actions - Verifying Search Results Notification...
+19:59:57.446 [main] INFO  com.cloudmore.ui.pages.Cloudmore_SearchPage_Actions - helluva: is displayed on screen
+20:00:06.078 [main] INFO  com.cloudmore.ui.pages.Cloudmore_HomePage_Actions - 
+
+Clicked on Search Button on HomePage.....
+20:00:06.154 [main] INFO  com.cloudmore.ui.pages.Cloudmore_HomePage_Actions - 
+
+Search Textbox is displayed on clicking Search Button.....
+20:00:12.020 [main] INFO  com.cloudmore.ui.pages.Cloudmore_SearchPage_Actions - ********************An Exception has occuredorg.openqa.selenium.ElementNotInteractableException: element not interactable
+  (Session info: chrome=107.0.5304.121)
+Build info: version: '4.6.0', revision: '79f1c02ae20'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_202'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [bdb6b902d5967a574f7f525dab3ad21c, clickElement {id=bd3720b3-5c91-4c72-af7b-bc0402490c85}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 107.0.5304.121, chrome: {chromedriverVersion: 107.0.5304.62 (1eec40d3a576..., userDataDir: C:\Users\anoop\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:62350}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:62350/devtoo..., se:cdpVersion: 107.0.5304.121, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on WINDOWS (bdb6b902d5967a574f7f525dab3ad21c)] -> css selector: [id='hs-eu-confirmation-button']]
+Session ID: bdb6b902d5967a574f7f525dab3ad21c
+20:00:12.156 [main] INFO  com.cloudmore.ui.pages.Cloudmore_SearchPage_Actions - 
+
+ Total Search Results returned : : 1
+20:00:16.987 [main] INFO  com.cloudmore.ui.pages.Cloudmore_SearchPage_Actions - 
+Search Textbox is displayed on screen 
+
+20:00:17.112 [main] INFO  com.cloudmore.ui.pages.Cloudmore_SearchPage_Actions - 
+Enter search string : helluva in Search Textbox 
+
+20:00:24.649 [main] INFO  com.cloudmore.ui.pages.Cloudmore_SearchPage_Actions - 
+ Clicked on Search Button 
+
+20:00:29.023 [main] INFO  com.cloudmore.ui.pages.Cloudmore_SearchPage_Actions - Verifying Search Results Notification...
+20:00:29.086 [main] INFO  com.cloudmore.ui.pages.Cloudmore_SearchPage_Actions - helluva: is displayed on screen
+20:00:36.705 [main] INFO  com.cloudmore.ui.pages.Cloudmore_SearchPage_Actions - Resize Window to mobile screen and take screenshot
+20:00:41.633 [main] INFO  com.cloudmore.ui.pages.Cloudmore_SearchPage_Actions - ********************An Exception has occuredorg.openqa.selenium.ElementNotInteractableException: element not interactable
+  (Session info: chrome=107.0.5304.121)
+Build info: version: '4.6.0', revision: '79f1c02ae20'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_202'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [750a25a484fe3145938d8f0629251eaf, clickElement {id=bbb2a573-e88f-4127-8e08-5d2157b9dd3a}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 107.0.5304.121, chrome: {chromedriverVersion: 107.0.5304.62 (1eec40d3a576..., userDataDir: C:\Users\anoop\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:62432}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:62432/devtoo..., se:cdpVersion: 107.0.5304.121, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on WINDOWS (750a25a484fe3145938d8f0629251eaf)] -> css selector: [id='hs-eu-confirmation-button']]
+Session ID: 750a25a484fe3145938d8f0629251eaf
+20:00:42.197 [main] INFO  com.cloudmore.ui.pages.Cloudmore_SearchPage_Actions - 
+
+ Total Search Results returned : : 1
+20:01:14.651 [main] INFO  com.cloudmore.ui.pages.Cloudmore_SearchPage_Actions - Resize Window to mobile screen and take screenshot
+20:01:14.712 [main] INFO  com.cloudmore.ui.pages.Cloudmore_SearchPage_Actions - 
+ Maximize browser Window after taking screenshot
+
+20:01:22.326 [main] INFO  com.cloudmore.ui.pages.Cloudmore_SearchPage_Actions - ************* SEARCH RESULTS FOUND : 1
+20:01:32.389 [main] INFO  com.cloudmore.base.TestBase - 
+
+************Close Browser Window ********
+
+20:01:53.709 [main] INFO  com.cloudmore.ui.pages.Cloudmore_SearchPage_Actions - 
+ Maximize browser Window after taking screenshot
+
+20:01:55.849 [main] INFO  com.cloudmore.ui.pages.Cloudmore_SearchPage_Actions - ************* SEARCH RESULTS FOUND : 1
+20:01:59.320 [main] INFO  com.cloudmore.base.TestBase - Chrome Browser is launched...
+20:02:04.545 [main] INFO  com.cloudmore.base.TestBase - 
+
+************Close Browser Window ********
+
+20:02:36.342 [main] INFO  com.cloudmore.base.TestBase - Chrome Browser is launched...
+20:03:01.812 [main] INFO  com.cloudmore.ui.pages.Cloudmore_HomePage_Actions - 
+
+Clicked on Search Button on HomePage.....
+20:03:04.581 [main] INFO  com.cloudmore.ui.pages.Cloudmore_HomePage_Actions - 
+
+Search Textbox is displayed on clicking Search Button.....
+20:03:14.870 [main] INFO  com.cloudmore.ui.pages.Cloudmore_SearchPage_Actions - 
+Search Textbox is displayed on screen 
+
+20:03:15.236 [main] INFO  com.cloudmore.ui.pages.Cloudmore_SearchPage_Actions - 
+Enter search string : Solution in Search Textbox 
+
+20:03:20.071 [main] INFO  com.cloudmore.ui.pages.Cloudmore_HomePage_Actions - 
+
+Clicked on Search Button on HomePage.....
+20:03:20.724 [main] INFO  com.cloudmore.ui.pages.Cloudmore_HomePage_Actions - 
+
+Search Textbox is displayed on clicking Search Button.....
+20:03:26.575 [main] INFO  com.cloudmore.ui.pages.Cloudmore_SearchPage_Actions - 
+ Clicked on Search Button 
+
+20:03:31.184 [main] INFO  com.cloudmore.ui.pages.Cloudmore_SearchPage_Actions - 
+Search Textbox is displayed on screen 
+
+20:03:31.305 [main] INFO  com.cloudmore.ui.pages.Cloudmore_SearchPage_Actions - 
+Enter search string : Solution in Search Textbox 
+
+20:03:32.052 [main] INFO  com.cloudmore.ui.pages.Cloudmore_SearchPage_Actions - Verifying Search Results Notification...
+20:03:36.586 [main] INFO  com.cloudmore.ui.pages.Cloudmore_SearchPage_Actions - Solution: is displayed on screen
+20:03:38.282 [main] INFO  com.cloudmore.ui.pages.Cloudmore_SearchPage_Actions - 
+ Clicked on Search Button 
+
+20:03:38.307 [main] INFO  com.cloudmore.ui.pages.Cloudmore_SearchPage_Actions - ***** An exception has occured during Search operation : org.openqa.selenium.NoSuchWindowException: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=107.0.5304.121)
+Build info: version: '4.6.0', revision: '79f1c02ae20'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_202'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [5c15662599ef142dc621bd0dcce2a45e, screenshot {}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 107.0.5304.121, chrome: {chromedriverVersion: 107.0.5304.62 (1eec40d3a576..., userDataDir: C:\Users\anoop\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:62593}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:62593/devtoo..., se:cdpVersion: 107.0.5304.121, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 5c15662599ef142dc621bd0dcce2a45e
+20:03:38.911 [main] INFO  com.cloudmore.ui.pages.Cloudmore_SearchPage_Actions - ********************An Exception has occuredorg.openqa.selenium.NoSuchWindowException: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=107.0.5304.121)
+Build info: version: '4.6.0', revision: '79f1c02ae20'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_202'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [0989d146d79a373c3d82c52bc5b90a28, findElement {using=css selector, value=[id='hs-eu-confirmation-button']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 107.0.5304.121, chrome: {chromedriverVersion: 107.0.5304.62 (1eec40d3a576..., userDataDir: C:\Users\anoop\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:62558}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:62558/devtoo..., se:cdpVersion: 107.0.5304.121, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 0989d146d79a373c3d82c52bc5b90a28
+20:03:38.961 [main] INFO  com.cloudmore.ui.pages.Cloudmore_SearchPage_Actions - 
+ An Exception has occured : org.openqa.selenium.NoSuchWindowException: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=107.0.5304.121)
+Build info: version: '4.6.0', revision: '79f1c02ae20'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_202'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [0989d146d79a373c3d82c52bc5b90a28, findElements {using=css selector, value=.search-results article[class='search-result']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 107.0.5304.121, chrome: {chromedriverVersion: 107.0.5304.62 (1eec40d3a576..., userDataDir: C:\Users\anoop\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:62558}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:62558/devtoo..., se:cdpVersion: 107.0.5304.121, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 0989d146d79a373c3d82c52bc5b90a28
+20:03:58.746 [main] INFO  com.cloudmore.assignment.Assignment_PartC_Test - 
+
+ **************** POST -  API - CreateWithArray *******************
+
+
+20:03:59.086 [main] INFO  com.cloudmore.assignment.Assignment_PartC_Test - 
+
+ **************** POST -  API - CreateWithArray *******************
+
+
+20:03:59.858 [main] INFO  com.cloudmore.assignment.Assignment_PartC_Test - 
+
+Sending json payload in Request:
+ [
+  {
+    "id": 1,
+    "username": "user111",
+    "firstName": "Anoop",
+    "lastName": "Sh",
+    "email": "usera@gmail.com",
+    "password": "12345",
+    "phone": "12121212",
+    "userStatus": 0 
+  },
+ { 
+ 	"id": 2,
+    "username": "user222",
+    "firstName": "Ajay",
+    "lastName": "Kum",
+    "email": "userb@gmail.com",
+    "password": "34343434",
+    "phone": "91332256",
+    "userStatus": 0   
+ }
+  ]
+20:03:59.858 [main] INFO  com.cloudmore.assignment.Assignment_PartC_Test - 
+
+Sending json payload in Request:
+ [
+  {
+    "id": 1,
+    "username": "user111",
+    "firstName": "Anoop",
+    "lastName": "Sh",
+    "email": "usera@gmail.com",
+    "password": "12345",
+    "phone": "12121212",
+    "userStatus": 0 
+  },
+ { 
+ 	"id": 2,
+    "username": "user222",
+    "firstName": "Ajay",
+    "lastName": "Kum",
+    "email": "userb@gmail.com",
+    "password": "34343434",
+    "phone": "91332256",
+    "userStatus": 0   
+ }
+  ]
+20:04:33.958 [main] INFO  com.cloudmore.api.RestAssuredApiActions - URL : https://petstore.swagger.io/v2/user/createWithArray
+20:04:58.419 [main] INFO  com.cloudmore.api.RestAssuredApiActions - 
+
+ API has returned HTTP Code
+HTTP/1.1 200 OK
+20:04:58.419 [main] INFO  com.cloudmore.assignment.Assignment_PartC_Test - 
+
+API 'createWithArray' has returned response
+{"code":200,"type":"unknown","message":"ok"}
+20:04:58.419 [main] INFO  com.cloudmore.assignment.Assignment_PartC_Test - 
+
+ POST Operation is successfully performed 
+
+20:04:58.435 [main] INFO  com.cloudmore.assignment.Assignment_PartC_Test - 
+************************ DELETE API - deleteUser ***************************************
+
+20:05:00.012 [main] INFO  com.cloudmore.api.RestAssuredApiActions - 
+
+ API has returned HTTP Code
+HTTP/1.1 200 OK
+20:05:00.967 [main] INFO  com.cloudmore.assignment.Assignment_PartC_Test - 
+
+API has returned response : {
+    "code": 200,
+    "type": "unknown",
+    "message": "user222"
+}
+20:05:00.967 [main] INFO  com.cloudmore.assignment.Assignment_PartC_Test - 
+
+ DELETE Operation is successful
+HTTP/1.1 200 OK
+20:05:00.967 [main] INFO  com.cloudmore.assignment.Assignment_PartC_Test - 
+**************** ***************************************
+
+20:05:00.967 [main] INFO  com.cloudmore.assignment.Assignment_PartC_Test - **************** OPTIONAL>> GET Call ***************************************
+
+20:05:02.727 [main] INFO  com.cloudmore.api.RestAssuredApiActions - 
+
+ API has returned HTTP Code
+HTTP/1.1 404 Not Found
+20:05:02.727 [main] INFO  com.cloudmore.assignment.Assignment_PartC_Test - 
+
+API has returned response : {
+    "code": 1,
+    "type": "error",
+    "message": "User not found"
+}
+20:05:09.427 [main] INFO  com.cloudmore.assignment.Assignment_PartC_Test - 
+
+ USER NOT FOUND  :
+ HTTP/1.1 404 Not Found
+20:05:09.427 [main] INFO  com.cloudmore.assignment.Assignment_PartC_Test - 
+**************** GET - getUserByUserName [Run After Post call]***************************************
+
+20:05:13.615 [main] INFO  com.cloudmore.api.RestAssuredApiActions - 
+
+ API has returned HTTP Code
+HTTP/1.1 200 OK
+20:05:13.615 [main] INFO  com.cloudmore.assignment.Assignment_PartC_Test - 
+
+API has returned response : {
+    "id": 1,
+    "username": "user111",
+    "firstName": "Anoop",
+    "lastName": "Sh",
+    "email": "usera@gmail.com",
+    "password": "12345",
+    "phone": "12121212",
+    "userStatus": 0
+}
+20:05:13.630 [main] INFO  com.cloudmore.assignment.Assignment_PartC_Test - 
+
+ GET Operation is successful
+HTTP/1.1 200 OK
+20:05:13.680 [main] INFO  com.cloudmore.assignment.Assignment_PartC_Test - 
+
+API has returned userDetails -- 
+id : 1
+username : user111
+firstName : Anoop
+lastName : Sh
+email : usera@gmail.com
+password : 12345
+phone : 12121212
+
+20:05:13.680 [main] INFO  com.cloudmore.assignment.Assignment_PartC_Test - 
+
+********************* PUT API -UpdateUser ***************************************
+
+20:05:13.696 [main] INFO  com.cloudmore.assignment.Assignment_PartC_Test - 
+
+Update User : user111 with new details : 
+  { 
+    "id": 1,
+    "username": "user111",
+    "firstName": "Ilja",
+    "lastName": "Dm",
+    "email": "updatedUser@gmail.com",
+    "password": "12345",
+    "phone": "12121212",
+    "userStatus": 0 
+  }
+ 
+20:05:13.696 [main] INFO  com.cloudmore.api.RestAssuredApiActions - URL : https://petstore.swagger.io/v2/user/user111
+20:05:15.399 [main] INFO  com.cloudmore.api.RestAssuredApiActions - 
+
+ API has returned HTTP Code
+HTTP/1.1 200 OK
+20:05:15.399 [main] INFO  com.cloudmore.assignment.Assignment_PartC_Test - 
+
+API has returned response : *********
+{
+    "code": 200,
+    "type": "unknown",
+    "message": "1"
+}
+20:05:15.399 [main] INFO  com.cloudmore.assignment.Assignment_PartC_Test - 
+
+ PUT Operation is successful
+HTTP/1.1 200 OK
+20:05:17.249 [main] INFO  com.cloudmore.api.RestAssuredApiActions - 
+
+ API has returned HTTP Code
+HTTP/1.1 200 OK
+20:05:17.249 [main] INFO  com.cloudmore.assignment.Assignment_PartC_Test - Call GET API to check the update is performed successfully : {
+    "id": 1,
+    "username": "user111",
+    "firstName": "Ilja",
+    "lastName": "Dm",
+    "email": "updatedUser@gmail.com",
+    "password": "12345",
+    "phone": "12121212",
+    "userStatus": 0
+}
+20:05:17.580 [main] INFO  com.cloudmore.assignment.Assignment_PartC_Test - 
+
+ PUT Operation is successful
+
+Updated User Detais
+HTTP/1.1 200 OK
+20:05:17.580 [main] INFO  com.cloudmore.assignment.Assignment_PartC_Test - 
+
+API has returned userDetails -- 
+id : 1
+username : user111
+firstName: Ilja
+lastName : Dm
+email    : updatedUser@gmail.com
+password : 12345
+phone    : 12121212
+
+20:07:47.744 [main] INFO  com.cloudmore.base.TestBase - Chrome Browser is launched...
+20:07:54.499 [main] INFO  com.cloudmore.assignment.Assignment_PartB_Test - 
+
+
+
+ ************CHECK MENU ITEMS ON HOMEPAGE ************
+
+20:07:54.515 [main] INFO  com.cloudmore.assignment.Assignment_PartB_Test - 
+
+ Following MenuItems should be displayed : 
+[Solutions, Products, Resources, Pricing, Company]
+20:08:06.651 [main] INFO  com.cloudmore.ui.pages.Cloudmore_HomePage_Actions - 
+*****SOLUTIONS_MENU is displayed****
+20:08:07.807 [main] INFO  com.cloudmore.ui.pages.Cloudmore_HomePage_Actions - 
+******RESOURCES_MENU is displayed********
+20:08:08.617 [main] INFO  com.cloudmore.ui.pages.Cloudmore_HomePage_Actions - 
+*******PRICING_MENU is displayed***
+20:08:08.903 [main] INFO  com.cloudmore.ui.pages.Cloudmore_HomePage_Actions - 
+********COMPANY_MENU is displayed****
+20:08:09.199 [main] INFO  com.cloudmore.assignment.Assignment_PartB_Test - 
+ALL Menu items are displayed on homepage
+20:08:10.965 [main] INFO  com.cloudmore.base.TestBase - 
+
+************Close Browser Window ********
+
+20:08:14.871 [main] INFO  com.cloudmore.base.TestBase - Chrome Browser is launched...
+20:08:28.706 [main] INFO  com.cloudmore.assignment.Assignment_PartB_Test - 
+
+
+
+ ************CHECK LOGO IS DISPLAYED ON HOMESCREEN ************
+
+20:08:28.709 [main] INFO  com.cloudmore.ui.pages.Cloudmore_HomePage_Actions - Checking Cloudmore Logo on HomePage...
+20:08:38.870 [main] INFO  com.cloudmore.ui.pages.Cloudmore_HomePage_Actions - Cloudmore Logo is displayed on HomePage...
+20:08:39.086 [main] INFO  com.cloudmore.assignment.Assignment_PartB_Test - 
+
+ ************ LOGO IS DISPLAYED  ************
+
+20:08:40.448 [main] INFO  com.cloudmore.base.TestBase - 
+
+************Close Browser Window ********
+
+20:08:48.573 [main] INFO  com.cloudmore.base.TestBase - Chrome Browser is launched...
+20:08:57.351 [main] INFO  com.cloudmore.ui.pages.Cloudmore_HomePage_Actions - 
+
+Clicked on Search Button on HomePage.....
+20:08:57.429 [main] INFO  com.cloudmore.ui.pages.Cloudmore_HomePage_Actions - 
+
+Search Textbox is displayed on clicking Search Button.....
+20:09:07.692 [main] INFO  com.cloudmore.ui.pages.Cloudmore_SearchPage_Actions - 
+Search Textbox is displayed on screen 
+
+20:09:07.918 [main] INFO  com.cloudmore.ui.pages.Cloudmore_SearchPage_Actions - 
+Enter search string : helluva in Search Textbox 
+
+20:09:13.220 [main] INFO  com.cloudmore.ui.pages.Cloudmore_SearchPage_Actions - 
+ Clicked on Search Button 
+
+20:09:16.014 [main] INFO  com.cloudmore.ui.pages.Cloudmore_SearchPage_Actions - Verifying Search Results Notification...
+20:09:16.126 [main] INFO  com.cloudmore.ui.pages.Cloudmore_SearchPage_Actions - helluva: is displayed on screen
+20:09:28.696 [main] INFO  com.cloudmore.ui.pages.Cloudmore_SearchPage_Actions - ********************An Exception has occuredorg.openqa.selenium.ElementNotInteractableException: element not interactable
+  (Session info: chrome=107.0.5304.121)
+Build info: version: '4.6.0', revision: '79f1c02ae20'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_202'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [c54a22e5dc743973a12e9577a7611337, clickElement {id=cc5c7293-ecc5-422b-bb93-837055ec1a38}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 107.0.5304.121, chrome: {chromedriverVersion: 107.0.5304.62 (1eec40d3a576..., userDataDir: C:\Users\anoop\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:62869}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:62869/devtoo..., se:cdpVersion: 107.0.5304.121, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on WINDOWS (c54a22e5dc743973a12e9577a7611337)] -> css selector: [id='hs-eu-confirmation-button']]
+Session ID: c54a22e5dc743973a12e9577a7611337
+20:09:28.848 [main] INFO  com.cloudmore.ui.pages.Cloudmore_SearchPage_Actions - 
+
+ Total Search Results returned : : 1
+20:09:51.782 [main] INFO  com.cloudmore.ui.pages.Cloudmore_SearchPage_Actions - Resize Window to mobile screen and take screenshot
+20:10:23.056 [main] INFO  com.cloudmore.ui.pages.Cloudmore_SearchPage_Actions - 
+ Maximize browser Window after taking screenshot
+
+20:10:25.210 [main] INFO  com.cloudmore.ui.pages.Cloudmore_SearchPage_Actions - ************* SEARCH RESULTS FOUND : 1
+20:10:26.398 [main] INFO  com.cloudmore.base.TestBase - 
+
+************Close Browser Window ********
+
+20:10:33.402 [main] INFO  com.cloudmore.base.TestBase - Chrome Browser is launched...
+20:10:57.748 [main] INFO  com.cloudmore.ui.pages.Cloudmore_HomePage_Actions - 
+
+Clicked on Search Button on HomePage.....
+20:10:57.821 [main] INFO  com.cloudmore.ui.pages.Cloudmore_HomePage_Actions - 
+
+Search Textbox is displayed on clicking Search Button.....
+20:11:08.535 [main] INFO  com.cloudmore.ui.pages.Cloudmore_SearchPage_Actions - 
+Search Textbox is displayed on screen 
+
+20:11:08.685 [main] INFO  com.cloudmore.ui.pages.Cloudmore_SearchPage_Actions - 
+Enter search string : Solution in Search Textbox 
+
+20:11:20.510 [main] INFO  com.cloudmore.ui.pages.Cloudmore_SearchPage_Actions - 
+ Clicked on Search Button 
+
+20:11:25.395 [main] INFO  com.cloudmore.ui.pages.Cloudmore_SearchPage_Actions - Verifying Search Results Notification...
+20:11:25.481 [main] INFO  com.cloudmore.ui.pages.Cloudmore_SearchPage_Actions - Solution: is displayed on screen
+20:11:37.892 [main] INFO  com.cloudmore.ui.pages.Cloudmore_SearchPage_Actions - ********************An Exception has occuredorg.openqa.selenium.ElementNotInteractableException: element not interactable
+  (Session info: chrome=107.0.5304.121)
+Build info: version: '4.6.0', revision: '79f1c02ae20'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_202'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [f02bce5fb180b6af3b3464222290a48a, clickElement {id=bfaafb91-3325-4636-94a6-ed9e64745931}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 107.0.5304.121, chrome: {chromedriverVersion: 107.0.5304.62 (1eec40d3a576..., userDataDir: C:\Users\anoop\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:63082}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:63082/devtoo..., se:cdpVersion: 107.0.5304.121, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on WINDOWS (f02bce5fb180b6af3b3464222290a48a)] -> css selector: [id='hs-eu-confirmation-button']]
+Session ID: f02bce5fb180b6af3b3464222290a48a
+20:11:38.132 [main] INFO  com.cloudmore.ui.pages.Cloudmore_SearchPage_Actions - 
+
+ Total Search Results returned : : 10
+20:12:12.099 [main] INFO  com.cloudmore.ui.pages.Cloudmore_SearchPage_Actions - Resize Window to mobile screen and take screenshot
+20:12:50.513 [main] INFO  com.cloudmore.ui.pages.Cloudmore_SearchPage_Actions - 
+ Maximize browser Window after taking screenshot
+
+20:12:53.073 [main] INFO  com.cloudmore.ui.pages.Cloudmore_SearchPage_Actions - ************* SEARCH RESULTS FOUND : 10
+20:12:57.957 [main] INFO  com.cloudmore.base.TestBase - 
+
+************Close Browser Window ********
+
+20:13:01.625 [main] INFO  com.cloudmore.base.TestBase - ************Test Complete ********
+20:13:17.273 [main] INFO  com.cloudmore.assignment.Assignment_PartC_Test - 
+
+ **************** POST -  API - CreateWithArray *******************
+
+
+20:13:17.619 [main] INFO  com.cloudmore.assignment.Assignment_PartC_Test - 
+
+Sending json payload in Request:
+ [
+  {
+    "id": 1,
+    "username": "user111",
+    "firstName": "Anoop",
+    "lastName": "Sh",
+    "email": "usera@gmail.com",
+    "password": "12345",
+    "phone": "12121212",
+    "userStatus": 0 
+  },
+ { 
+ 	"id": 2,
+    "username": "user222",
+    "firstName": "Ajay",
+    "lastName": "Kum",
+    "email": "userb@gmail.com",
+    "password": "34343434",
+    "phone": "91332256",
+    "userStatus": 0   
+ }
+  ]
+20:13:36.627 [main] INFO  com.cloudmore.api.RestAssuredApiActions - URL : https://petstore.swagger.io/v2/user/createWithArray
+20:13:52.851 [main] INFO  com.cloudmore.api.RestAssuredApiActions - 
+
+ API has returned HTTP Code
+HTTP/1.1 200 OK
+20:13:52.866 [main] INFO  com.cloudmore.assignment.Assignment_PartC_Test - 
+
+API 'createWithArray' has returned response
+{"code":200,"type":"unknown","message":"ok"}
+20:13:52.866 [main] INFO  com.cloudmore.assignment.Assignment_PartC_Test - 
+
+ POST Operation is successfully performed 
+
+20:13:52.866 [main] INFO  com.cloudmore.assignment.Assignment_PartC_Test - 
+************************ DELETE API - deleteUser ***************************************
+
+20:13:54.420 [main] INFO  com.cloudmore.api.RestAssuredApiActions - 
+
+ API has returned HTTP Code
+HTTP/1.1 200 OK
+20:13:56.267 [main] INFO  com.cloudmore.assignment.Assignment_PartC_Test - 
+
+API has returned response : {
+    "code": 200,
+    "type": "unknown",
+    "message": "user222"
+}
+20:13:56.267 [main] INFO  com.cloudmore.assignment.Assignment_PartC_Test - 
+
+ DELETE Operation is successful
+HTTP/1.1 200 OK
+20:13:56.267 [main] INFO  com.cloudmore.assignment.Assignment_PartC_Test - 
+**************** ***************************************
+
+20:13:56.267 [main] INFO  com.cloudmore.assignment.Assignment_PartC_Test - **************** OPTIONAL>> GET Call ***************************************
+
+20:13:57.804 [main] INFO  com.cloudmore.api.RestAssuredApiActions - 
+
+ API has returned HTTP Code
+HTTP/1.1 404 Not Found
+20:13:57.804 [main] INFO  com.cloudmore.assignment.Assignment_PartC_Test - 
+
+API has returned response : {
+    "code": 1,
+    "type": "error",
+    "message": "User not found"
+}
+20:14:07.991 [main] INFO  com.cloudmore.assignment.Assignment_PartC_Test - 
+
+ USER NOT FOUND  :
+ HTTP/1.1 404 Not Found
+20:14:07.991 [main] INFO  com.cloudmore.assignment.Assignment_PartC_Test - 
+**************** GET - getUserByUserName [Run After Post call]***************************************
+
+20:14:10.050 [main] INFO  com.cloudmore.api.RestAssuredApiActions - 
+
+ API has returned HTTP Code
+HTTP/1.1 200 OK
+20:14:10.050 [main] INFO  com.cloudmore.assignment.Assignment_PartC_Test - 
+
+API has returned response : {
+    "id": 1,
+    "username": "user111",
+    "firstName": "Anoop",
+    "lastName": "Sh",
+    "email": "usera@gmail.com",
+    "password": "12345",
+    "phone": "12121212",
+    "userStatus": 0
+}
+20:14:10.050 [main] INFO  com.cloudmore.assignment.Assignment_PartC_Test - 
+
+ GET Operation is successful
+HTTP/1.1 200 OK
+20:14:10.225 [main] INFO  com.cloudmore.assignment.Assignment_PartC_Test - 
+
+API has returned userDetails -- 
+id : 1
+username : user111
+firstName : Anoop
+lastName : Sh
+email : usera@gmail.com
+password : 12345
+phone : 12121212
+
+20:14:10.226 [main] INFO  com.cloudmore.assignment.Assignment_PartC_Test - 
+
+********************* PUT API -UpdateUser ***************************************
+
+20:14:10.226 [main] INFO  com.cloudmore.assignment.Assignment_PartC_Test - 
+
+Update User : user111 with new details : 
+  { 
+    "id": 1,
+    "username": "user111",
+    "firstName": "Ilja",
+    "lastName": "Dm",
+    "email": "updatedUser@gmail.com",
+    "password": "12345",
+    "phone": "12121212",
+    "userStatus": 0 
+  }
+ 
+20:14:10.226 [main] INFO  com.cloudmore.api.RestAssuredApiActions - URL : https://petstore.swagger.io/v2/user/user111
+20:14:12.924 [main] INFO  com.cloudmore.api.RestAssuredApiActions - 
+
+ API has returned HTTP Code
+HTTP/1.1 200 OK
+20:14:12.925 [main] INFO  com.cloudmore.assignment.Assignment_PartC_Test - 
+
+API has returned response : *********
+{
+    "code": 200,
+    "type": "unknown",
+    "message": "1"
+}
+20:14:12.925 [main] INFO  com.cloudmore.assignment.Assignment_PartC_Test - 
+
+ PUT Operation is successful
+HTTP/1.1 200 OK
+20:14:14.713 [main] INFO  com.cloudmore.api.RestAssuredApiActions - 
+
+ API has returned HTTP Code
+HTTP/1.1 200 OK
+20:14:14.713 [main] INFO  com.cloudmore.assignment.Assignment_PartC_Test - Call GET API to check the update is performed successfully : {
+    "id": 1,
+    "username": "user111",
+    "firstName": "Ilja",
+    "lastName": "Dm",
+    "email": "updatedUser@gmail.com",
+    "password": "12345",
+    "phone": "12121212",
+    "userStatus": 0
+}
+20:14:15.329 [main] INFO  com.cloudmore.assignment.Assignment_PartC_Test - 
+
+ PUT Operation is successful
+
+Updated User Detais
+HTTP/1.1 200 OK
+20:14:15.329 [main] INFO  com.cloudmore.assignment.Assignment_PartC_Test - 
+
+API has returned userDetails -- 
+id : 1
+username : user111
+firstName: Ilja
+lastName : Dm
+email    : updatedUser@gmail.com
+password : 12345
+phone    : 12121212
+
+20:50:17.854 [main] INFO  com.cloudmore.base.TestBase - Chrome Browser is launched...
+20:51:08.650 [main] INFO  com.cloudmore.assignment.Assignment_PartB_Test - 
+
+
+
+ ************CHECK MENU ITEMS ON HOMEPAGE ************
+
+20:51:08.670 [main] INFO  com.cloudmore.assignment.Assignment_PartB_Test - 
+
+ Following MenuItems should be displayed : 
+[Solutions, Products, Resources, Pricing, Company]
+20:51:19.559 [main] INFO  com.cloudmore.ui.pages.Cloudmore_HomePage_Actions - 
+*****SOLUTIONS_MENU is displayed****
+20:51:20.060 [main] INFO  com.cloudmore.ui.pages.Cloudmore_HomePage_Actions - 
+******RESOURCES_MENU is displayed********
+20:51:20.378 [main] INFO  com.cloudmore.ui.pages.Cloudmore_HomePage_Actions - 
+*******PRICING_MENU is displayed***
+20:51:20.689 [main] INFO  com.cloudmore.ui.pages.Cloudmore_HomePage_Actions - 
+********COMPANY_MENU is displayed****
+20:51:20.992 [main] INFO  com.cloudmore.assignment.Assignment_PartB_Test - 
+ALL Menu items are displayed on homepage
+20:51:21.552 [main] INFO  com.cloudmore.base.TestBase - 
+
+************Close Browser Window ********
+
+20:51:32.174 [main] INFO  com.cloudmore.base.TestBase - Chrome Browser is launched...
+20:52:15.856 [main] INFO  com.cloudmore.assignment.Assignment_PartB_Test - 
+
+
+
+ ************CHECK LOGO IS DISPLAYED ON HOMESCREEN ************
+
+20:52:15.925 [main] INFO  com.cloudmore.ui.pages.Cloudmore_HomePage_Actions - Checking Cloudmore Logo on HomePage...
+20:52:26.217 [main] INFO  com.cloudmore.ui.pages.Cloudmore_HomePage_Actions - Cloudmore Logo is displayed on HomePage...
+20:52:26.724 [main] INFO  com.cloudmore.assignment.Assignment_PartB_Test - 
+
+ ************ LOGO IS DISPLAYED  ************
+
+20:52:27.456 [main] INFO  com.cloudmore.base.TestBase - 
+
+************Close Browser Window ********
+
+20:52:36.158 [main] INFO  com.cloudmore.base.TestBase - Chrome Browser is launched...
+20:52:54.084 [main] INFO  com.cloudmore.ui.pages.Cloudmore_HomePage_Actions - 
+
+Clicked on Search Button on HomePage.....
+20:52:55.605 [main] INFO  com.cloudmore.ui.pages.Cloudmore_HomePage_Actions - 
+
+Search Textbox is displayed on clicking Search Button.....
+20:53:06.396 [main] INFO  com.cloudmore.ui.pages.Cloudmore_SearchPage_Actions - 
+Search Textbox is displayed on screen 
+
+20:53:06.616 [main] INFO  com.cloudmore.ui.pages.Cloudmore_SearchPage_Actions - 
+Enter search string : helluva in Search Textbox 
+
+20:54:20.408 [main] INFO  com.cloudmore.ui.pages.Cloudmore_SearchPage_Actions - 
+ Clicked on Search Button 
+
+20:54:26.161 [main] INFO  com.cloudmore.ui.pages.Cloudmore_SearchPage_Actions - Verifying Search Results Notification...
+20:54:26.442 [main] INFO  com.cloudmore.ui.pages.Cloudmore_SearchPage_Actions - helluva: is displayed on screen
+21:03:17.326 [main] INFO  com.cloudmore.base.TestBase - Chrome Browser is launched...
+21:03:39.888 [main] INFO  com.cloudmore.assignment.Assignment_PartB_Test - 
+
+
+
+ ************CHECK MENU ITEMS ON HOMEPAGE ************
+
+21:03:39.896 [main] INFO  com.cloudmore.assignment.Assignment_PartB_Test - 
+
+ Following MenuItems should be displayed : 
+[Solutions, Products, Resources, Pricing, Company]
+21:03:53.628 [main] INFO  com.cloudmore.ui.pages.Cloudmore_HomePage_Actions - 
+*****SOLUTIONS_MENU is displayed****
+21:03:56.903 [main] INFO  com.cloudmore.ui.pages.Cloudmore_HomePage_Actions - 
+******RESOURCES_MENU is displayed********
+21:03:57.832 [main] INFO  com.cloudmore.ui.pages.Cloudmore_HomePage_Actions - 
+*******PRICING_MENU is displayed***
+21:03:59.031 [main] INFO  com.cloudmore.ui.pages.Cloudmore_HomePage_Actions - 
+********COMPANY_MENU is displayed****
+21:03:59.416 [main] INFO  com.cloudmore.assignment.Assignment_PartB_Test - 
+ALL Menu items are displayed on homepage
+21:04:00.358 [main] INFO  com.cloudmore.base.TestBase - 
+
+************Close Browser Window ********
+
+21:04:10.968 [main] INFO  com.cloudmore.base.TestBase - Chrome Browser is launched...
+21:04:17.625 [main] INFO  com.cloudmore.assignment.Assignment_PartB_Test - 
+
+
+
+ ************CHECK LOGO IS DISPLAYED ON HOMESCREEN ************
+
+21:04:17.628 [main] INFO  com.cloudmore.ui.pages.Cloudmore_HomePage_Actions - Checking Cloudmore Logo on HomePage...
+21:04:27.787 [main] INFO  com.cloudmore.ui.pages.Cloudmore_HomePage_Actions - Cloudmore Logo is displayed on HomePage...
+21:04:28.013 [main] INFO  com.cloudmore.assignment.Assignment_PartB_Test - 
+
+ ************ LOGO IS DISPLAYED  ************
+
+21:04:28.506 [main] INFO  com.cloudmore.base.TestBase - 
+
+************Close Browser Window ********
+
+21:04:32.106 [main] INFO  com.cloudmore.base.TestBase - Chrome Browser is launched...
+21:04:40.136 [main] INFO  com.cloudmore.ui.pages.Cloudmore_HomePage_Actions - 
+
+Clicked on Search Button on HomePage.....
+21:04:43.726 [main] INFO  com.cloudmore.ui.pages.Cloudmore_HomePage_Actions - 
+
+Search Textbox is displayed on clicking Search Button.....
+21:05:28.371 [main] INFO  com.cloudmore.ui.pages.Cloudmore_SearchPage_Actions - 
+Search Textbox is displayed on screen 
+
+21:05:28.531 [main] INFO  com.cloudmore.ui.pages.Cloudmore_SearchPage_Actions - 
+Enter search string : helluva in Search Textbox 
+
+21:05:35.690 [main] INFO  com.cloudmore.ui.pages.Cloudmore_SearchPage_Actions - 
+ Clicked on Search Button 
+
+21:05:36.007 [main] INFO  com.cloudmore.ui.pages.Cloudmore_SearchPage_Actions - Verifying Search Results Notification...
+21:05:36.171 [main] INFO  com.cloudmore.ui.pages.Cloudmore_SearchPage_Actions - helluva: is displayed on screen
+21:05:47.010 [main] INFO  com.cloudmore.ui.pages.Cloudmore_SearchPage_Actions - 
+
+ Total Search Results returned : : 1
+21:06:10.505 [main] INFO  com.cloudmore.ui.pages.Cloudmore_SearchPage_Actions - Resize Window to mobile screen and take screenshot
+21:06:42.129 [main] INFO  com.cloudmore.ui.pages.Cloudmore_SearchPage_Actions - 
+ Maximize browser Window after taking screenshot
+
+21:06:44.279 [main] INFO  com.cloudmore.ui.pages.Cloudmore_SearchPage_Actions - ************* SEARCH RESULTS FOUND : 1
+21:06:45.814 [main] INFO  com.cloudmore.base.TestBase - 
+
+************Close Browser Window ********
+
+21:06:52.489 [main] INFO  com.cloudmore.base.TestBase - Chrome Browser is launched...
+21:07:15.784 [main] INFO  com.cloudmore.ui.pages.Cloudmore_HomePage_Actions - 
+
+Clicked on Search Button on HomePage.....
+21:07:15.922 [main] INFO  com.cloudmore.ui.pages.Cloudmore_HomePage_Actions - 
+
+Search Textbox is displayed on clicking Search Button.....
+21:07:26.334 [main] INFO  com.cloudmore.ui.pages.Cloudmore_SearchPage_Actions - 
+Search Textbox is displayed on screen 
+
+21:07:26.616 [main] INFO  com.cloudmore.ui.pages.Cloudmore_SearchPage_Actions - 
+Enter search string : Solution in Search Textbox 
+
+21:07:41.981 [main] INFO  com.cloudmore.ui.pages.Cloudmore_SearchPage_Actions - 
+ Clicked on Search Button 
+
+21:07:42.193 [main] INFO  com.cloudmore.ui.pages.Cloudmore_SearchPage_Actions - Verifying Search Results Notification...
+21:07:42.271 [main] INFO  com.cloudmore.ui.pages.Cloudmore_SearchPage_Actions - Solution: is displayed on screen
+21:07:49.363 [main] INFO  com.cloudmore.ui.pages.Cloudmore_SearchPage_Actions - 
+
+ Total Search Results returned : : 10
+21:08:21.566 [main] INFO  com.cloudmore.ui.pages.Cloudmore_SearchPage_Actions - Resize Window to mobile screen and take screenshot
+21:09:01.548 [main] INFO  com.cloudmore.ui.pages.Cloudmore_SearchPage_Actions - 
+ Maximize browser Window after taking screenshot
+
+21:09:03.692 [main] INFO  com.cloudmore.ui.pages.Cloudmore_SearchPage_Actions - ************* SEARCH RESULTS FOUND : 10
+21:09:04.083 [main] INFO  com.cloudmore.base.TestBase - 
+
+************Close Browser Window ********
+
+21:09:05.334 [main] INFO  com.cloudmore.base.TestBase - ************Test Complete ********
+21:09:07.048 [main] INFO  com.cloudmore.assignment.Assignment_PartC_Test - 
+
+ **************** POST -  API - CreateWithArray *******************
+
+
+21:09:07.113 [main] INFO  com.cloudmore.assignment.Assignment_PartC_Test - 
+
+Sending json payload in Request:
+ [
+  {
+    "id": 1,
+    "username": "user111",
+    "firstName": "Anoop",
+    "lastName": "Sh",
+    "email": "usera@gmail.com",
+    "password": "12345",
+    "phone": "12121212",
+    "userStatus": 0 
+  },
+ { 
+ 	"id": 2,
+    "username": "user222",
+    "firstName": "Ajay",
+    "lastName": "Kum",
+    "email": "userb@gmail.com",
+    "password": "34343434",
+    "phone": "91332256",
+    "userStatus": 0   
+ }
+  ]
+21:09:11.563 [main] INFO  com.cloudmore.api.RestAssuredApiActions - URL : https://petstore.swagger.io/v2/user/createWithArray
+21:09:17.674 [main] INFO  com.cloudmore.api.RestAssuredApiActions - 
+
+ API has returned HTTP Code
+HTTP/1.1 200 OK
+21:09:17.706 [main] INFO  com.cloudmore.assignment.Assignment_PartC_Test - 
+
+API 'createWithArray' has returned response
+{"code":200,"type":"unknown","message":"ok"}
+21:09:17.706 [main] INFO  com.cloudmore.assignment.Assignment_PartC_Test - 
+
+ POST Operation is successfully performed 
+
+21:09:17.706 [main] INFO  com.cloudmore.assignment.Assignment_PartC_Test - 
+************************ DELETE API - deleteUser ***************************************
+
+21:09:19.477 [main] INFO  com.cloudmore.api.RestAssuredApiActions - 
+
+ API has returned HTTP Code
+HTTP/1.1 200 OK
+21:09:19.696 [main] INFO  com.cloudmore.assignment.Assignment_PartC_Test - 
+
+API has returned response : {
+    "code": 200,
+    "type": "unknown",
+    "message": "user222"
+}
+21:09:19.696 [main] INFO  com.cloudmore.assignment.Assignment_PartC_Test - 
+
+ DELETE Operation is successful
+HTTP/1.1 200 OK
+21:09:19.696 [main] INFO  com.cloudmore.assignment.Assignment_PartC_Test - 
+**************** ***************************************
+
+21:09:19.696 [main] INFO  com.cloudmore.assignment.Assignment_PartC_Test - **************** OPTIONAL>> GET Call ***************************************
+
+21:09:21.499 [main] INFO  com.cloudmore.api.RestAssuredApiActions - 
+
+ API has returned HTTP Code
+HTTP/1.1 404 Not Found
+21:09:21.515 [main] INFO  com.cloudmore.assignment.Assignment_PartC_Test - 
+
+API has returned response : {
+    "code": 1,
+    "type": "error",
+    "message": "User not found"
+}
+21:09:22.912 [main] INFO  com.cloudmore.assignment.Assignment_PartC_Test - 
+
+ USER NOT FOUND  :
+ HTTP/1.1 404 Not Found
+21:09:22.929 [main] INFO  com.cloudmore.assignment.Assignment_PartC_Test - 
+**************** GET - getUserByUserName [Run After Post call]***************************************
+
+21:09:24.424 [main] INFO  com.cloudmore.api.RestAssuredApiActions - 
+
+ API has returned HTTP Code
+HTTP/1.1 200 OK
+21:09:24.424 [main] INFO  com.cloudmore.assignment.Assignment_PartC_Test - 
+
+API has returned response : {
+    "id": 1,
+    "username": "user111",
+    "firstName": "Anoop",
+    "lastName": "Sh",
+    "email": "usera@gmail.com",
+    "password": "12345",
+    "phone": "12121212",
+    "userStatus": 0
+}
+21:09:24.424 [main] INFO  com.cloudmore.assignment.Assignment_PartC_Test - 
+
+ GET Operation is successful
+HTTP/1.1 200 OK
+21:09:24.442 [main] INFO  com.cloudmore.assignment.Assignment_PartC_Test - 
+
+API has returned userDetails -- 
+id : 1
+username : user111
+firstName : Anoop
+lastName : Sh
+email : usera@gmail.com
+password : 12345
+phone : 12121212
+
+21:09:24.442 [main] INFO  com.cloudmore.assignment.Assignment_PartC_Test - 
+
+********************* PUT API -UpdateUser ***************************************
+
+21:09:24.451 [main] INFO  com.cloudmore.assignment.Assignment_PartC_Test - 
+
+Update User : user111 with new details : 
+  { 
+    "id": 1,
+    "username": "user111",
+    "firstName": "Ilja",
+    "lastName": "Dm",
+    "email": "updatedUser@gmail.com",
+    "password": "12345",
+    "phone": "12121212",
+    "userStatus": 0 
+  }
+ 
+21:09:24.452 [main] INFO  com.cloudmore.api.RestAssuredApiActions - URL : https://petstore.swagger.io/v2/user/user111
+21:09:26.040 [main] INFO  com.cloudmore.api.RestAssuredApiActions - 
+
+ API has returned HTTP Code
+HTTP/1.1 200 OK
+21:09:26.040 [main] INFO  com.cloudmore.assignment.Assignment_PartC_Test - 
+
+API has returned response : *********
+{
+    "code": 200,
+    "type": "unknown",
+    "message": "1"
+}
+21:09:26.040 [main] INFO  com.cloudmore.assignment.Assignment_PartC_Test - 
+
+ PUT Operation is successful
+HTTP/1.1 200 OK
+21:09:27.832 [main] INFO  com.cloudmore.api.RestAssuredApiActions - 
+
+ API has returned HTTP Code
+HTTP/1.1 200 OK
+21:09:27.850 [main] INFO  com.cloudmore.assignment.Assignment_PartC_Test - Call GET API to check the update is performed successfully : {
+    "id": 1,
+    "username": "user111",
+    "firstName": "Ilja",
+    "lastName": "Dm",
+    "email": "updatedUser@gmail.com",
+    "password": "12345",
+    "phone": "12121212",
+    "userStatus": 0
+}
+21:09:27.883 [main] INFO  com.cloudmore.assignment.Assignment_PartC_Test - 
+
+ PUT Operation is successful
+
+Updated User Detais
+HTTP/1.1 200 OK
+21:09:27.883 [main] INFO  com.cloudmore.assignment.Assignment_PartC_Test - 
+
+API has returned userDetails -- 
+id : 1
+username : user111
+firstName: Ilja
+lastName : Dm
+email    : updatedUser@gmail.com
+password : 12345
+phone    : 12121212
+

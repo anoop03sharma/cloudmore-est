@@ -1,0 +1,320 @@
+20:38:41.310 [main] INFO  com.cloudmore.utils.TestUtils - Browser is launched...
+20:40:16.577 [main] INFO  com.cloudmore.utils.TestUtils - Browser is launched...
+20:40:25.160 [main] INFO  com.cloudmore.assignment.Assignment_PartB_Test - 
+
+
+
+ ************CHECK MENU ITEMS ON HOMEPAGE ************
+
+20:40:56.913 [main] INFO  com.cloudmore.assignment.Assignment_PartB_Test - 
+
+ Following MenuItems should be displayed : 
+[Solutions, Products, Resources, Pricing, Company]
+20:40:57.184 [main] INFO  com.cloudmore.ui.pages.Cloudmore_HomePage_Actions - 
+*****SOLUTIONS_MENU is displayed****
+20:40:57.223 [main] INFO  com.cloudmore.ui.pages.Cloudmore_HomePage_Actions - 
+******RESOURCES_MENU is displayed********
+20:40:57.259 [main] INFO  com.cloudmore.ui.pages.Cloudmore_HomePage_Actions - 
+*******PRICING_MENU is displayed***
+20:40:57.303 [main] INFO  com.cloudmore.ui.pages.Cloudmore_HomePage_Actions - 
+********COMPANY is displayed****
+20:40:57.320 [main] INFO  com.cloudmore.utils.CommonUtils - Capturing Screenshot.....
+20:40:57.895 [main] INFO  com.cloudmore.assignment.Assignment_PartB_Test - ALL Menu items are displayed on homepage
+20:40:58.495 [main] INFO  com.cloudmore.assignment.Assignment_PartB_Test - ************Close Browser Window ********
+20:41:03.658 [main] INFO  com.cloudmore.utils.TestUtils - Browser is launched...
+20:41:11.330 [main] INFO  com.cloudmore.assignment.Assignment_PartB_Test - 
+
+
+
+ ************CHECK LOGO IS DISPLAYED ON HOMESCREEN ************
+
+20:41:41.978 [main] INFO  com.cloudmore.ui.pages.Cloudmore_HomePage_Actions - Checking Cloudmore Logo on HomePage...
+20:41:42.017 [main] INFO  com.cloudmore.utils.CommonUtils - Capturing Screenshot.....
+20:41:42.323 [main] INFO  com.cloudmore.ui.pages.Cloudmore_HomePage_Actions - Cloudmore Logo is displayed on HomePage...
+20:41:42.323 [main] INFO  com.cloudmore.assignment.Assignment_PartB_Test - 
+
+ ************ LOGO IS DISPLAYED  ************
+
+20:41:42.560 [main] INFO  com.cloudmore.assignment.Assignment_PartB_Test - ************Close Browser Window ********
+20:41:46.939 [main] INFO  com.cloudmore.utils.TestUtils - Browser is launched...
+20:42:23.510 [main] INFO  com.cloudmore.ui.pages.Cloudmore_HomePage_Actions - 
+
+Clicked on Search Button on HomePage.....
+20:42:25.220 [main] INFO  com.cloudmore.ui.pages.Cloudmore_HomePage_Actions - 
+
+Search Textbox is displayed on clicking Search Button.....
+20:42:25.221 [main] INFO  com.cloudmore.utils.CommonUtils - Capturing Screenshot.....
+20:42:26.704 [main] INFO  com.cloudmore.ui.pages.Cloudmore_SearchPage_Actions - Search Textbox is displayed : [[ChromeDriver: chrome on WINDOWS (7a7f434877bcb7693fb41eaec7d6bfe7)] -> css selector: .input-search]
+20:42:28.389 [main] INFO  com.cloudmore.ui.pages.Cloudmore_SearchPage_Actions - 
+Enter search string : Solution in Search Textbox : [[ChromeDriver: chrome on WINDOWS (7a7f434877bcb7693fb41eaec7d6bfe7)] -> css selector: .input-search]
+20:42:28.749 [main] INFO  com.cloudmore.utils.CommonUtils - Capturing Screenshot.....
+20:42:29.040 [main] INFO  com.cloudmore.ui.pages.Cloudmore_SearchPage_Actions - 
+Clicking on Search Button : [[ChromeDriver: chrome on WINDOWS (7a7f434877bcb7693fb41eaec7d6bfe7)] -> css selector: .input-search]
+20:42:32.270 [main] INFO  com.cloudmore.ui.pages.Cloudmore_SearchPage_Actions - 
+Clicked on Search Button : [[ChromeDriver: chrome on WINDOWS (7a7f434877bcb7693fb41eaec7d6bfe7)] -> css selector: .input-search]
+20:42:32.271 [main] INFO  com.cloudmore.ui.pages.Cloudmore_SearchPage_Actions - Verifying Search Results Notification...
+20:42:32.485 [main] INFO  com.cloudmore.ui.pages.Cloudmore_SearchPage_Actions - Solution: is displayed on screen
+20:42:32.485 [main] INFO  com.cloudmore.utils.CommonUtils - Capturing Screenshot.....
+20:42:32.756 [main] INFO  com.cloudmore.utils.CommonUtils - Capturing Screenshot.....
+20:42:32.959 [main] INFO  com.cloudmore.ui.pages.Cloudmore_SearchPage_Actions - 
+Checking number of search Results displayed for search string : Solution
+20:42:32.978 [main] INFO  com.cloudmore.ui.pages.Cloudmore_SearchPage_Actions - Search Results displayed on Screen[[[ChromeDriver: chrome on WINDOWS (7a7f434877bcb7693fb41eaec7d6bfe7)] -> css selector: .search-results article[class='search-result']], [[ChromeDriver: chrome on WINDOWS (7a7f434877bcb7693fb41eaec7d6bfe7)] -> css selector: .search-results article[class='search-result']], [[ChromeDriver: chrome on WINDOWS (7a7f434877bcb7693fb41eaec7d6bfe7)] -> css selector: .search-results article[class='search-result']], [[ChromeDriver: chrome on WINDOWS (7a7f434877bcb7693fb41eaec7d6bfe7)] -> css selector: .search-results article[class='search-result']], [[ChromeDriver: chrome on WINDOWS (7a7f434877bcb7693fb41eaec7d6bfe7)] -> css selector: .search-results article[class='search-result']], [[ChromeDriver: chrome on WINDOWS (7a7f434877bcb7693fb41eaec7d6bfe7)] -> css selector: .search-results article[class='search-result']], [[ChromeDriver: chrome on WINDOWS (7a7f434877bcb7693fb41eaec7d6bfe7)] -> css selector: .search-results article[class='search-result']], [[ChromeDriver: chrome on WINDOWS (7a7f434877bcb7693fb41eaec7d6bfe7)] -> css selector: .search-results article[class='search-result']], [[ChromeDriver: chrome on WINDOWS (7a7f434877bcb7693fb41eaec7d6bfe7)] -> css selector: .search-results article[class='search-result']], [[ChromeDriver: chrome on WINDOWS (7a7f434877bcb7693fb41eaec7d6bfe7)] -> css selector: .search-results article[class='search-result']]]
+20:42:33.523 [main] INFO  com.cloudmore.utils.CommonUtils - Capturing Screenshot.....
+20:42:34.859 [main] INFO  com.cloudmore.utils.CommonUtils - Capturing Screenshot.....
+20:42:35.082 [main] INFO  com.cloudmore.ui.pages.Cloudmore_SearchPage_Actions - Resize Window to mobile screen and take screenshot
+20:42:35.945 [main] INFO  com.cloudmore.utils.CommonUtils - Capturing Screenshot.....
+20:42:36.715 [main] INFO  com.cloudmore.ui.pages.Cloudmore_SearchPage_Actions - Maximize browser Window after taking screenshot
+20:42:36.850 [main] INFO  com.cloudmore.ui.pages.Cloudmore_SearchPage_Actions - 
+Number of Search Results returned is 10
+20:42:37.050 [main] INFO  com.cloudmore.ui.pages.Cloudmore_HomePage_Actions - 
+
+Clicked on Search Button on HomePage.....
+20:42:37.151 [main] INFO  com.cloudmore.ui.pages.Cloudmore_HomePage_Actions - 
+
+Search Textbox is displayed on clicking Search Button.....
+20:42:37.151 [main] INFO  com.cloudmore.utils.CommonUtils - Capturing Screenshot.....
+20:42:37.701 [main] INFO  com.cloudmore.ui.pages.Cloudmore_SearchPage_Actions - Search Textbox is displayed : [[ChromeDriver: chrome on WINDOWS (7a7f434877bcb7693fb41eaec7d6bfe7)] -> css selector: .input-search]
+20:42:37.780 [main] INFO  com.cloudmore.ui.pages.Cloudmore_SearchPage_Actions - 
+Enter search string : Hello in Search Textbox : [[ChromeDriver: chrome on WINDOWS (7a7f434877bcb7693fb41eaec7d6bfe7)] -> css selector: .input-search]
+20:42:37.931 [main] INFO  com.cloudmore.utils.CommonUtils - Capturing Screenshot.....
+20:42:38.285 [main] INFO  com.cloudmore.ui.pages.Cloudmore_SearchPage_Actions - 
+Clicking on Search Button : [[ChromeDriver: chrome on WINDOWS (7a7f434877bcb7693fb41eaec7d6bfe7)] -> css selector: .input-search]
+20:42:41.275 [main] INFO  com.cloudmore.ui.pages.Cloudmore_SearchPage_Actions - 
+Clicked on Search Button : [[ChromeDriver: chrome on WINDOWS (7a7f434877bcb7693fb41eaec7d6bfe7)] -> css selector: .input-search]
+20:42:41.275 [main] INFO  com.cloudmore.ui.pages.Cloudmore_SearchPage_Actions - Verifying Search Results Notification...
+20:42:41.449 [main] INFO  com.cloudmore.ui.pages.Cloudmore_SearchPage_Actions - Hello: is displayed on screen
+20:42:41.450 [main] INFO  com.cloudmore.utils.CommonUtils - Capturing Screenshot.....
+20:42:41.788 [main] INFO  com.cloudmore.utils.CommonUtils - Capturing Screenshot.....
+20:42:42.190 [main] INFO  com.cloudmore.ui.pages.Cloudmore_SearchPage_Actions - 
+Checking number of search Results displayed for search string : Hello
+20:42:52.243 [main] INFO  com.cloudmore.ui.pages.Cloudmore_SearchPage_Actions - Search Results displayed on Screen[]
+20:42:52.447 [main] INFO  com.cloudmore.ui.pages.Cloudmore_HomePage_Actions - 
+
+Clicked on Search Button on HomePage.....
+20:42:52.519 [main] INFO  com.cloudmore.ui.pages.Cloudmore_HomePage_Actions - 
+
+Search Textbox is displayed on clicking Search Button.....
+20:42:52.519 [main] INFO  com.cloudmore.utils.CommonUtils - Capturing Screenshot.....
+20:42:52.730 [main] INFO  com.cloudmore.ui.pages.Cloudmore_SearchPage_Actions - Search Textbox is displayed : [[ChromeDriver: chrome on WINDOWS (7a7f434877bcb7693fb41eaec7d6bfe7)] -> css selector: .input-search]
+20:42:52.800 [main] INFO  com.cloudmore.ui.pages.Cloudmore_SearchPage_Actions - 
+Enter search string : Michelle in Search Textbox : [[ChromeDriver: chrome on WINDOWS (7a7f434877bcb7693fb41eaec7d6bfe7)] -> css selector: .input-search]
+20:42:52.884 [main] INFO  com.cloudmore.utils.CommonUtils - Capturing Screenshot.....
+20:42:53.091 [main] INFO  com.cloudmore.ui.pages.Cloudmore_SearchPage_Actions - 
+Clicking on Search Button : [[ChromeDriver: chrome on WINDOWS (7a7f434877bcb7693fb41eaec7d6bfe7)] -> css selector: .input-search]
+20:42:56.489 [main] INFO  com.cloudmore.ui.pages.Cloudmore_SearchPage_Actions - 
+Clicked on Search Button : [[ChromeDriver: chrome on WINDOWS (7a7f434877bcb7693fb41eaec7d6bfe7)] -> css selector: .input-search]
+20:42:56.489 [main] INFO  com.cloudmore.ui.pages.Cloudmore_SearchPage_Actions - Verifying Search Results Notification...
+20:42:56.644 [main] INFO  com.cloudmore.ui.pages.Cloudmore_SearchPage_Actions - Michelle: is displayed on screen
+20:42:56.645 [main] INFO  com.cloudmore.utils.CommonUtils - Capturing Screenshot.....
+20:42:56.954 [main] INFO  com.cloudmore.utils.CommonUtils - Capturing Screenshot.....
+20:42:57.234 [main] INFO  com.cloudmore.ui.pages.Cloudmore_SearchPage_Actions - 
+Checking number of search Results displayed for search string : Michelle
+20:43:07.289 [main] INFO  com.cloudmore.ui.pages.Cloudmore_SearchPage_Actions - Search Results displayed on Screen[]
+20:43:08.074 [main] INFO  com.cloudmore.assignment.Assignment_PartB_Test - 
+
+************Close Browser Window ********
+
+20:43:09.320 [main] INFO  com.cloudmore.utils.TestUtils - ************Test Complete ********
+21:43:32.220 [main] INFO  com.cloudmore.utils.TestUtils - Browser is launched...
+21:44:21.119 [main] INFO  com.cloudmore.ui.pages.Cloudmore_HomePage_Actions - 
+
+Clicked on Search Button on HomePage.....
+21:44:21.297 [main] INFO  com.cloudmore.ui.pages.Cloudmore_HomePage_Actions - 
+
+Search Textbox is displayed on clicking Search Button.....
+21:44:21.365 [main] INFO  com.cloudmore.utils.CommonUtils - Capturing Screenshot.....
+21:44:22.887 [main] INFO  com.cloudmore.ui.pages.Cloudmore_SearchPage_Actions - 
+Search Textbox is displayed on screen 
+
+21:44:23.237 [main] INFO  com.cloudmore.ui.pages.Cloudmore_SearchPage_Actions - 
+Enter search string : Hello in Search Textbox 
+
+21:44:23.237 [main] INFO  com.cloudmore.utils.CommonUtils - Capturing Screenshot.....
+21:44:28.369 [main] INFO  com.cloudmore.ui.pages.Cloudmore_SearchPage_Actions - 
+ Clicked on Search Button 
+
+21:44:28.369 [main] INFO  com.cloudmore.ui.pages.Cloudmore_SearchPage_Actions - Verifying Search Results Notification...
+21:44:28.673 [main] INFO  com.cloudmore.ui.pages.Cloudmore_SearchPage_Actions - Hello: is displayed on screen
+21:44:28.673 [main] INFO  com.cloudmore.utils.CommonUtils - Capturing Screenshot.....
+21:44:28.917 [main] INFO  com.cloudmore.utils.CommonUtils - Capturing Screenshot.....
+21:45:49.300 [main] INFO  com.cloudmore.ui.pages.Cloudmore_SearchPage_Actions - Not able to perform search as Search Text box is not displayed on Screen
+21:45:50.179 [main] INFO  com.cloudmore.assignment.Assignment_PartB_Test - 
+
+************Close Browser Window ********
+
+21:45:51.170 [main] INFO  com.cloudmore.utils.TestUtils - ************Test Complete ********
+21:56:23.864 [main] INFO  com.cloudmore.utils.TestUtils - Browser is launched...
+21:57:08.252 [main] INFO  com.cloudmore.ui.pages.Cloudmore_HomePage_Actions - 
+
+Clicked on Search Button on HomePage.....
+21:57:08.364 [main] INFO  com.cloudmore.ui.pages.Cloudmore_HomePage_Actions - 
+
+Search Textbox is displayed on clicking Search Button.....
+21:57:08.646 [main] INFO  com.cloudmore.utils.CommonUtils - Capturing Screenshot.....
+21:57:10.320 [main] INFO  com.cloudmore.ui.pages.Cloudmore_SearchPage_Actions - 
+Search Textbox is displayed on screen 
+
+21:57:10.825 [main] INFO  com.cloudmore.ui.pages.Cloudmore_SearchPage_Actions - 
+Enter search string : Solution in Search Textbox 
+
+21:57:10.825 [main] INFO  com.cloudmore.utils.CommonUtils - Capturing Screenshot.....
+21:57:17.099 [main] INFO  com.cloudmore.ui.pages.Cloudmore_SearchPage_Actions - 
+ Clicked on Search Button 
+
+21:57:17.099 [main] INFO  com.cloudmore.ui.pages.Cloudmore_SearchPage_Actions - Verifying Search Results Notification...
+21:57:17.229 [main] INFO  com.cloudmore.ui.pages.Cloudmore_SearchPage_Actions - Solution: is displayed on screen
+21:57:17.230 [main] INFO  com.cloudmore.utils.CommonUtils - Capturing Screenshot.....
+21:57:17.540 [main] INFO  com.cloudmore.utils.CommonUtils - Capturing Screenshot.....
+21:57:17.871 [main] INFO  com.cloudmore.ui.pages.Cloudmore_SearchPage_Actions - 
+
+ Total Search Results returned : : 10
+21:57:18.438 [main] INFO  com.cloudmore.utils.CommonUtils - Capturing Screenshot.....
+21:57:19.859 [main] INFO  com.cloudmore.utils.CommonUtils - Capturing Screenshot.....
+21:57:20.131 [main] INFO  com.cloudmore.ui.pages.Cloudmore_SearchPage_Actions - Resize Window to mobile screen and take screenshot
+21:57:21.106 [main] INFO  com.cloudmore.utils.CommonUtils - Capturing Screenshot.....
+21:57:22.037 [main] INFO  com.cloudmore.ui.pages.Cloudmore_SearchPage_Actions - 
+ Maximize browser Window after taking screenshot
+
+21:57:22.245 [main] INFO  com.cloudmore.ui.pages.Cloudmore_SearchPage_Actions - ************* SEARCH RESULTS FOUND : 10
+21:57:22.304 [main] INFO  com.cloudmore.ui.pages.Cloudmore_SearchPage_Actions - Not able to perform search as Search Text box is not displayed on Screen
+21:57:22.896 [main] INFO  com.cloudmore.assignment.Assignment_PartB_Test - 
+
+************Close Browser Window ********
+
+21:57:24.349 [main] INFO  com.cloudmore.utils.TestUtils - ************Test Complete ********
+22:13:51.647 [main] INFO  com.cloudmore.utils.TestUtils - Browser is launched...
+22:14:36.357 [main] INFO  com.cloudmore.ui.pages.Cloudmore_HomePage_Actions - 
+
+Clicked on Search Button on HomePage.....
+22:14:36.449 [main] INFO  com.cloudmore.ui.pages.Cloudmore_HomePage_Actions - 
+
+Search Textbox is displayed on clicking Search Button.....
+22:14:36.469 [main] INFO  com.cloudmore.utils.CommonUtils - Capturing Screenshot.....
+22:14:37.013 [main] INFO  com.cloudmore.ui.pages.Cloudmore_SearchPage_Actions - 
+Search Textbox is displayed on screen 
+
+22:14:37.244 [main] INFO  com.cloudmore.ui.pages.Cloudmore_SearchPage_Actions - 
+Enter search string : Solution in Search Textbox 
+
+22:14:37.244 [main] INFO  com.cloudmore.utils.CommonUtils - Capturing Screenshot.....
+22:14:41.701 [main] INFO  com.cloudmore.ui.pages.Cloudmore_SearchPage_Actions - 
+ Clicked on Search Button 
+
+22:14:41.701 [main] INFO  com.cloudmore.ui.pages.Cloudmore_SearchPage_Actions - Verifying Search Results Notification...
+22:14:41.876 [main] INFO  com.cloudmore.ui.pages.Cloudmore_SearchPage_Actions - Solution: is displayed on screen
+22:14:41.876 [main] INFO  com.cloudmore.utils.CommonUtils - Capturing Screenshot.....
+22:14:42.107 [main] INFO  com.cloudmore.utils.CommonUtils - Capturing Screenshot.....
+22:14:42.490 [main] INFO  com.cloudmore.ui.pages.Cloudmore_SearchPage_Actions - 
+
+ Total Search Results returned : : 10
+22:14:43.061 [main] INFO  com.cloudmore.utils.CommonUtils - Capturing Screenshot.....
+22:14:44.544 [main] INFO  com.cloudmore.utils.CommonUtils - Capturing Screenshot.....
+22:14:44.769 [main] INFO  com.cloudmore.ui.pages.Cloudmore_SearchPage_Actions - Resize Window to mobile screen and take screenshot
+22:14:45.738 [main] INFO  com.cloudmore.utils.CommonUtils - Capturing Screenshot.....
+22:14:46.670 [main] INFO  com.cloudmore.ui.pages.Cloudmore_SearchPage_Actions - 
+ Maximize browser Window after taking screenshot
+
+22:14:46.836 [main] INFO  com.cloudmore.ui.pages.Cloudmore_SearchPage_Actions - ************* SEARCH RESULTS FOUND : 10
+22:14:47.074 [main] INFO  com.cloudmore.ui.pages.Cloudmore_HomePage_Actions - 
+
+Clicked on Search Button on HomePage.....
+22:14:47.763 [main] INFO  com.cloudmore.ui.pages.Cloudmore_HomePage_Actions - 
+
+Search Textbox is displayed on clicking Search Button.....
+22:14:47.763 [main] INFO  com.cloudmore.utils.CommonUtils - Capturing Screenshot.....
+22:14:48.218 [main] INFO  com.cloudmore.ui.pages.Cloudmore_SearchPage_Actions - 
+Search Textbox is displayed on screen 
+
+22:14:48.435 [main] INFO  com.cloudmore.ui.pages.Cloudmore_SearchPage_Actions - 
+Enter search string : Hello in Search Textbox 
+
+22:14:48.436 [main] INFO  com.cloudmore.utils.CommonUtils - Capturing Screenshot.....
+22:14:50.980 [main] INFO  com.cloudmore.ui.pages.Cloudmore_SearchPage_Actions - 
+ Clicked on Search Button 
+
+22:14:50.980 [main] INFO  com.cloudmore.ui.pages.Cloudmore_SearchPage_Actions - Verifying Search Results Notification...
+22:14:51.113 [main] INFO  com.cloudmore.ui.pages.Cloudmore_SearchPage_Actions - Hello: is displayed on screen
+22:14:51.113 [main] INFO  com.cloudmore.utils.CommonUtils - Capturing Screenshot.....
+22:14:51.302 [main] INFO  com.cloudmore.utils.CommonUtils - Capturing Screenshot.....
+22:15:01.570 [main] INFO  com.cloudmore.ui.pages.Cloudmore_SearchPage_Actions - 
+
+*************** NO SEARCH RESULTS FOUND ************
+
+
+22:15:01.611 [main] INFO  com.cloudmore.ui.pages.Cloudmore_SearchPage_Actions - Not able to perform search as Search Text box is not displayed on Screen
+22:15:01.824 [main] INFO  com.cloudmore.assignment.Assignment_PartB_Test - 
+
+************Close Browser Window ********
+
+22:15:02.910 [main] INFO  com.cloudmore.utils.TestUtils - ************Test Complete ********
+22:21:22.382 [main] INFO  com.cloudmore.utils.TestUtils - Browser is launched...
+22:22:03.272 [main] INFO  com.cloudmore.ui.pages.Cloudmore_HomePage_Actions - 
+
+Clicked on Search Button on HomePage.....
+22:22:03.517 [main] INFO  com.cloudmore.ui.pages.Cloudmore_HomePage_Actions - 
+
+Search Textbox is displayed on clicking Search Button.....
+22:22:03.736 [main] INFO  com.cloudmore.utils.CommonUtils - Capturing Screenshot.....
+22:22:05.438 [main] INFO  com.cloudmore.ui.pages.Cloudmore_SearchPage_Actions - 
+Search Textbox is displayed on screen 
+
+22:22:06.181 [main] INFO  com.cloudmore.ui.pages.Cloudmore_SearchPage_Actions - 
+Enter search string : Solution in Search Textbox 
+
+22:22:06.182 [main] INFO  com.cloudmore.utils.CommonUtils - Capturing Screenshot.....
+22:22:14.517 [main] INFO  com.cloudmore.ui.pages.Cloudmore_SearchPage_Actions - 
+ Clicked on Search Button 
+
+22:22:14.517 [main] INFO  com.cloudmore.ui.pages.Cloudmore_SearchPage_Actions - Verifying Search Results Notification...
+22:22:15.070 [main] INFO  com.cloudmore.ui.pages.Cloudmore_SearchPage_Actions - Solution: is displayed on screen
+22:22:15.070 [main] INFO  com.cloudmore.utils.CommonUtils - Capturing Screenshot.....
+22:22:15.506 [main] INFO  com.cloudmore.utils.CommonUtils - Capturing Screenshot.....
+22:22:16.044 [main] INFO  com.cloudmore.ui.pages.Cloudmore_SearchPage_Actions - 
+
+ Total Search Results returned : : 10
+22:22:16.596 [main] INFO  com.cloudmore.utils.CommonUtils - Capturing Screenshot.....
+22:22:18.096 [main] INFO  com.cloudmore.utils.CommonUtils - Capturing Screenshot.....
+22:22:18.401 [main] INFO  com.cloudmore.ui.pages.Cloudmore_SearchPage_Actions - Resize Window to mobile screen and take screenshot
+22:22:19.286 [main] INFO  com.cloudmore.utils.CommonUtils - Capturing Screenshot.....
+22:22:20.100 [main] INFO  com.cloudmore.ui.pages.Cloudmore_SearchPage_Actions - 
+ Maximize browser Window after taking screenshot
+
+22:22:20.224 [main] INFO  com.cloudmore.ui.pages.Cloudmore_SearchPage_Actions - ************* SEARCH RESULTS FOUND : 10
+22:22:20.503 [main] INFO  com.cloudmore.ui.pages.Cloudmore_HomePage_Actions - 
+
+Clicked on Search Button on HomePage.....
+22:22:21.149 [main] INFO  com.cloudmore.ui.pages.Cloudmore_HomePage_Actions - 
+
+Search Textbox is displayed on clicking Search Button.....
+22:22:21.149 [main] INFO  com.cloudmore.utils.CommonUtils - Capturing Screenshot.....
+22:22:21.583 [main] INFO  com.cloudmore.ui.pages.Cloudmore_SearchPage_Actions - 
+Search Textbox is displayed on screen 
+
+22:22:21.847 [main] INFO  com.cloudmore.ui.pages.Cloudmore_SearchPage_Actions - 
+Enter search string : helluva in Search Textbox 
+
+22:22:21.847 [main] INFO  com.cloudmore.utils.CommonUtils - Capturing Screenshot.....
+22:22:26.050 [main] INFO  com.cloudmore.ui.pages.Cloudmore_SearchPage_Actions - 
+ Clicked on Search Button 
+
+22:22:26.051 [main] INFO  com.cloudmore.ui.pages.Cloudmore_SearchPage_Actions - Verifying Search Results Notification...
+22:22:26.223 [main] INFO  com.cloudmore.ui.pages.Cloudmore_SearchPage_Actions - helluva: is displayed on screen
+22:22:26.223 [main] INFO  com.cloudmore.utils.CommonUtils - Capturing Screenshot.....
+22:22:27.002 [main] INFO  com.cloudmore.utils.CommonUtils - Capturing Screenshot.....
+22:22:28.217 [main] INFO  com.cloudmore.ui.pages.Cloudmore_SearchPage_Actions - 
+
+ Total Search Results returned : : 1
+22:22:28.766 [main] INFO  com.cloudmore.utils.CommonUtils - Capturing Screenshot.....
+22:22:30.513 [main] INFO  com.cloudmore.utils.CommonUtils - Capturing Screenshot.....
+22:22:31.256 [main] INFO  com.cloudmore.ui.pages.Cloudmore_SearchPage_Actions - Resize Window to mobile screen and take screenshot
+22:22:32.304 [main] INFO  com.cloudmore.utils.CommonUtils - Capturing Screenshot.....
+22:22:33.112 [main] INFO  com.cloudmore.ui.pages.Cloudmore_SearchPage_Actions - 
+ Maximize browser Window after taking screenshot
+
+22:22:33.297 [main] INFO  com.cloudmore.ui.pages.Cloudmore_SearchPage_Actions - ************* SEARCH RESULTS FOUND : 1
+22:22:33.340 [main] INFO  com.cloudmore.ui.pages.Cloudmore_SearchPage_Actions - Not able to perform search as Search Text box is not displayed on Screen
+22:22:34.241 [main] INFO  com.cloudmore.assignment.Assignment_PartB_Test - 
+
+************Close Browser Window ********
+
+22:22:36.611 [main] INFO  com.cloudmore.utils.TestUtils - ************Test Complete ********
