@@ -1,5 +1,5 @@
 Pre-requisites to run this project
-===================================
+-----------------------------------
  Framework is built on JDK 1.8
  System must have TestNg plugin installed
  Add the "Selenium WebDriver " dependencies as "External JARs" in the project
@@ -8,7 +8,7 @@ Pre-requisites to run this project
  All the dependencies in pom.xml must be downloaded.
 
 
-#There is a separate configuration for  both Log4j2 and Extent Reports.
+There is a separate configuration for  both Log4j2 and Extent Reports.
 -------------------------------------------------------------------------------------------
 For adding logs via : Log4j 2 use : 			
  - log.info("Add message here")
