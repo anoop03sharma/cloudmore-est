@@ -8,7 +8,7 @@ Pre-requisites to run this project
  - Add the "Selenium WebDriver " dependencies as "External JARs" in the project
 ( download from - https://www.selenium.dev/downloads/ { Selenium for Java (version - 4.6.0)) }
 - Setup MAVEN_HOME and JAVA_HOME System environment variables.
-- All the dependencies in pom.xml must be downloaded. P
+- All the dependencies in pom.xml must be downloaded.
 
 
 There is a separate configuration for  both Log4j2 and Extent Reports.
