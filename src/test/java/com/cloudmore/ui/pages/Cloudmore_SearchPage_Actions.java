@@ -46,7 +46,7 @@ public class Cloudmore_SearchPage_Actions extends Cloudmore_SearchPage{
 			String message=driver.findElement(By.xpath(resultNotification)).getText();
 			log.info(message + ": is displayed on screen");
 			test.info(message + ": is displayed on screen");
-			test.addScreenCaptureFromPath(ScreenshotUtils.capturescreen("SearchResults"+timeStamp+".png"));
+			test.addScreenCaptureFromPath(ScreenshotUtils.capturescreen("SearchResults"+timestamp()+".png"));
 			return true;
 		}
 		catch(Exception e) {
@@ -71,14 +71,13 @@ public class Cloudmore_SearchPage_Actions extends Cloudmore_SearchPage{
         long endOfPage=(Long) js.executeScript("return window.pageYOffset");  //1695
         //Scroll to the Top of the Page
 		js.executeScript("window.scrollTo(document.body.scrollHeight,0)");	
-		Thread.sleep(2000);
 		long scrollStart=0;
 		long scrollEnd=scrollStart+offset;
 		
 
 		while(scrollEnd<endOfPage){		
-
-			test.addScreenCaptureFromPath(ScreenshotUtils.capturescreen("SearchResultsSequence_"+timeStamp+".png"));
+			Thread.sleep(2000);
+			test.addScreenCaptureFromPath(ScreenshotUtils.capturescreen("SearchResultsSequence_"+timestamp()+".png"));
 			Thread.sleep(2000);
 			js.executeScript("window.scrollBy("+scrollStart+","+scrollEnd+")");
 			Thread.sleep(2000);
@@ -108,8 +107,8 @@ public class Cloudmore_SearchPage_Actions extends Cloudmore_SearchPage{
 			acceptCookies();
 			List<WebElement> searchResults= driver.findElements(SEARCH_RESULTS); 
 			
-			test.addScreenCaptureFromPath(ScreenshotUtils.capturescreen("SearchResults_"+timeStamp+".png"));
-			
+			test.addScreenCaptureFromPath(ScreenshotUtils.capturescreen("SearchResults_"+timestamp()+".png"));
+			int i;
 			if(searchResults.size()>0) {
 			
 				log.info("\n\n Total Search Results returned : : "+searchResults.size());
@@ -117,7 +116,7 @@ public class Cloudmore_SearchPage_Actions extends Cloudmore_SearchPage{
 
 				//Take Screenshot
 				Thread.sleep(2000);
-				test.addScreenCaptureFromPath(ScreenshotUtils.capturescreen("SearchResultsSequence_"+timeStamp+".png"));
+				test.addScreenCaptureFromPath(ScreenshotUtils.capturescreen("SearchResultsSequence_"+timestamp()+".png"));
 			
 				//Take FullPage Screenshots to cover all Search Results
 				scrollTillEndAndtakeFullPageScreenshots();			
@@ -176,7 +175,7 @@ public class Cloudmore_SearchPage_Actions extends Cloudmore_SearchPage{
 			if(searchString.trim().isEmpty())
 				return -1;
 
-			test.addScreenCaptureFromPath(ScreenshotUtils.capturescreen("MENU ITEMS"+timeStamp+".png"));
+			test.addScreenCaptureFromPath(ScreenshotUtils.capturescreen("MENU ITEMS"+timestamp()+".png"));
 			if(SEARCH_TEXTBOX.isDisplayed()) {
 				log.info("\nSearch Textbox is displayed on screen \n");
 				test.info("Search Textbox is displayed on screen ");
@@ -189,13 +188,13 @@ public class Cloudmore_SearchPage_Actions extends Cloudmore_SearchPage{
 				SEARCH_TEXTBOX.sendKeys(searchString);
 				log.info("\nEnter search string : "+searchString+" in Search Textbox \n");
 				test.info("Enter search string : "+searchString+" : in Search Textbox \n");
-				test.addScreenCaptureFromPath(ScreenshotUtils.capturescreen("SearchTextbox_"+timeStamp+".png"));
+				test.addScreenCaptureFromPath(ScreenshotUtils.capturescreen("SearchTextbox_"+timestamp()+".png"));
 
 				//Click on Search button
 				SEARCH_BUTTON.click();
 				log.info("\n Clicked on Search Button \n");
 				test.info("Clicked on Search Button");
-				test.addScreenCaptureFromPath(ScreenshotUtils.capturescreen("SearchButtonClicked_"+timeStamp+".png"));
+				test.addScreenCaptureFromPath(ScreenshotUtils.capturescreen("SearchButtonClicked_"+timestamp()+".png"));
 
 
 				//Verify search is complete and results are displayed on screen
