@@ -15,7 +15,7 @@ import com.aventstack.extentreports.Status;
 public class ListenerUtils implements ITestListener {
     public static ExtentReports report = ReportUtils.initExtent();
     public static ExtentTest test;
-    public static String timeStamp = new SimpleDateFormat("dd-MM-yyyy-HH_mm_ss").format(new Date());
+    public static String timeStamp;
     public static String screenshot;
    
     public void onTestStart(ITestResult result) {
@@ -58,6 +58,11 @@ public class ListenerUtils implements ITestListener {
             e.printStackTrace();
         }
         test.addScreenCaptureFromPath(screenshot);
+    }
+     public static String timestamp() {
+    	timeStamp = new SimpleDateFormat("dd-MM-yyyy-HH_mm_ss_SSS").format(new Date());
+		return timeStamp;
+    	
     }
 
 
