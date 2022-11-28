@@ -1,11 +1,11 @@
 Pre-requisites to run this project
 -----------------------------------
- Framework is built on JDK 1.8
- System must have TestNg plugin installed
- Add the "Selenium WebDriver " dependencies as "External JARs" in the project
+ - Framework is built on JDK 1.8
+ - System must have TestNg plugin installed.
+ - Add the "Selenium WebDriver " dependencies as "External JARs" in the project
 ( download from - https://www.selenium.dev/downloads/ { Selenium for Java (version - 4.6.0)) }
- Environment variables (create Path as a UserVariable) must be set for MAVEN_HOME and Java
- All the dependencies in pom.xml must be downloaded.
+- Environment variables (create Path as a user variable) must be set for MAVEN_HOME and Java
+- All the dependencies in pom.xml must be downloaded.
 
 
 There is a separate configuration for  both Log4j2 and Extent Reports.
