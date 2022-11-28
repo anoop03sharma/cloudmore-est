@@ -62,7 +62,7 @@ public class Cloudmore_HomePage_Actions extends  Cloudmore_HomePage {
 			log.info("Cloudmore Logo is displayed on HomePage...");
 			test.info("Cloudmore Logo is displayed on HomePage...");
 
-			test.addScreenCaptureFromPath(ScreenshotUtils.capturescreen("CloudMoreLogoDisplayed_"+timeStamp+".png"));
+			test.addScreenCaptureFromPath(ScreenshotUtils.capturescreen("CloudMoreLogoDisplayed_"+timestamp()+".png"));
 
 
 			return true;
@@ -96,22 +96,17 @@ public class Cloudmore_HomePage_Actions extends  Cloudmore_HomePage {
 						Assert.assertTrue(SOLUTIONS_MENU_HOMEPAGE.isDisplayed());
 						log.info("\n*****SOLUTIONS_MENU is displayed****");
 						test.info("\n*****SOLUTIONS_MENU is displayed****");
-					    test.addScreenCaptureFromPath(ScreenshotUtils.capturescreen("SOLUTIONS_MENU_"+timeStamp+".png"));
-
 
 					}
 
 					if(menuItems.get(i).equals("Product")) {
 						Assert.assertTrue(PRODUCT_MENU_HOMEPAGE.isDisplayed());	
 						log.info("\n******PRODUCT_MENU is displayed*******");
-					    test.addScreenCaptureFromPath(ScreenshotUtils.capturescreen("PRODUCT_MENU_"+timeStamp+".png"));
-
 					}
 
 					if(menuItems.get(i).equals("Resources")) {
 						Assert.assertTrue(RESOURCES_MENU_HOMEPAGE.isDisplayed());
 						log.info("\n******RESOURCES_MENU is displayed********");
-					    test.addScreenCaptureFromPath(ScreenshotUtils.capturescreen("RESOURCES_MENU_"+timeStamp+".png"));
 
 					}
 
@@ -119,19 +114,19 @@ public class Cloudmore_HomePage_Actions extends  Cloudmore_HomePage {
 					if(menuItems.get(i).equals("Pricing")) {
 						Assert.assertTrue(PRICING_MENU_HOMEPAGE.isDisplayed());
 						log.info("\n*******PRICING_MENU is displayed***");
-					    test.addScreenCaptureFromPath(ScreenshotUtils.capturescreen("PRICING_MENU_"+timeStamp+".png"));
 
 					}
 
 					if(menuItems.get(i).equals("Company")) {
 						Assert.assertTrue(COMPANY_MENU_HOMEPAGE.isDisplayed());
 						log.info("\n********COMPANY_MENU is displayed****");
-					    test.addScreenCaptureFromPath(ScreenshotUtils.capturescreen("COMPANY_MENU_"+timeStamp+".png"));
 
 
 					}
 
 				}
+			    test.addScreenCaptureFromPath(ScreenshotUtils.capturescreen("MENUScreenshot_"+timestamp()+".png"));
+
 				return true;
 			}
 
@@ -199,10 +194,6 @@ public class Cloudmore_HomePage_Actions extends  Cloudmore_HomePage {
 
 			return false;
 		}
-		
 	}
 	
-	
-
-
 }
