@@ -1,11 +1,14 @@
 Pre-requisites to run this project
 -----------------------------------
  - Framework is built on JDK 1.8
+ - System must have Maven installed { use for reference - https://phoenixnap.com/kb/install-maven-windows }
  - System must have TestNg plugin installed.
+ - System must have Selenium Webdriver installed { use for reference -https://www.javatpoint.com/selenium-webdriver-installation }
+ - Import solution as 'Existing Maven Project' in Eclipse.
  - Add the "Selenium WebDriver " dependencies as "External JARs" in the project
 ( download from - https://www.selenium.dev/downloads/ { Selenium for Java (version - 4.6.0)) }
-- An environment variable 'path'(created as a user variable) must be set for Maven and Java in System environment variables.
-- All the dependencies in pom.xml must be downloaded.
+- Setup MAVEN_HOME and JAVA_HOME System environment variables.
+- All the dependencies in pom.xml must be downloaded. P
 
 
 There is a separate configuration for  both Log4j2 and Extent Reports.
@@ -30,5 +33,6 @@ Run As > TestNG suite.
 
 - Chrome Browser was used as preferred browser for tests while building the solution.
 - Also tested on Edge browser
+- Solution is created on Windows + Eclipse IDE 
 
 
