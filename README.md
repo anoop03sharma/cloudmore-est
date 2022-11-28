@@ -4,7 +4,7 @@ Pre-requisites to run this project
  - System must have TestNg plugin installed.
  - Add the "Selenium WebDriver " dependencies as "External JARs" in the project
 ( download from - https://www.selenium.dev/downloads/ { Selenium for Java (version - 4.6.0)) }
-- Environment variables (create Path as a user variable) must be set for MAVEN_HOME and Java
+- An environment variable 'path'(created as a user variable) must be set for Maven and Java in System environment variables.
 - All the dependencies in pom.xml must be downloaded.
 
 
