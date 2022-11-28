@@ -22,7 +22,8 @@ import com.cloudmore.utils.ScreenshotUtils;
  ** 3. Test to performs a search operation; fail test if search results is less than 3.
  ******** EXPECTED Results : 
  ******** LOGO CHECK and MENU ITEMS test should pass.
- ******** Search Test should fail for one of the strings shall return less than the passing criteria.
+ ******** Search Test should fail for one of the strings shall return less search results than set passing criteria.
+ ******* You can try with different search strings to check the results.
  **/
 public class Assignment_PartB_Test extends TestBase {
 
