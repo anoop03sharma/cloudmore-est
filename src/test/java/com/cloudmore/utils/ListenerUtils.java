@@ -21,7 +21,6 @@ public class ListenerUtils implements ITestListener {
     public void onTestStart(ITestResult result) {
        
         String classname = result.getTestClass().getName();
-  //      classname=classname.replace("testSauceDemo.","");
          test = report.createTest(classname)
                  .createNode(result.getMethod().getMethodName())
                  .assignAuthor(System.getProperty("user.name"));
