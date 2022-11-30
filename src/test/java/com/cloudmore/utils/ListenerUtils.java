@@ -38,7 +38,7 @@ public class ListenerUtils implements ITestListener {
         test.log(Status.FAIL,"Test Case: "+result.getMethod().getMethodName()+ " is failed.");
         
         try {
-            screenshot = ScreenshotUtils.capturescreen("Test_Failed_"+timeStamp+".png");
+            screenshot = ScreenshotUtils.capturescreen("Test_Failed_"+timestamp()+".png");
         } catch (Exception e) {
             // TODO Auto-generated catch block
             e.printStackTrace();
@@ -53,7 +53,7 @@ public class ListenerUtils implements ITestListener {
         test.skip(result.getThrowable());
         test.log(Status.SKIP,"Test Case: "+result.getMethod().getMethodName()+ " is skipped.");
         try {
-            screenshot = ScreenshotUtils.capturescreen("Test_Skipped_"+timeStamp+".png");
+            screenshot = ScreenshotUtils.capturescreen("Test_Skipped_"+timestamp()+".png");
         } catch (Exception e) {
             e.printStackTrace();
         }
